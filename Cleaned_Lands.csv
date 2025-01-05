@@ -1,0 +1,2001 @@
+Lands,Land_location,Land_area,Special_location,Soil_type,Utilities_Availability,Pollution,Land_price
+Land_1,New Capital City,383.0,Yes,Gravel,Yes,Low,30000000
+Land_2,New Capital City,384.0,Yes,Gravel,Yes,Low,30000001
+Land_3,New Capital City,385.0,Yes,Gravel,Yes,Low,30000002
+Land_4,New Capital City,386.0,Yes,Gravel,Yes,Low,30000003
+Land_5,New Capital City,387.0,Yes,Gravel,Yes,Low,30000004
+Land_6,New Capital City,388.0,Yes,Gravel,Yes,Low,30000005
+Land_7,New Capital City,389.0,Yes,Gravel,Yes,Low,30000006
+Land_8,New Capital City,390.0,Yes,Gravel,Yes,Low,30000007
+Land_9,New Capital City,391.0,Yes,Gravel,Yes,Low,30000008
+Land_10,New Capital City,392.0,Yes,Gravel,Yes,Low,30000009
+Land_11,New Capital City,393.0,Yes,Gravel,Yes,Low,30000010
+Land_12,New Capital City,394.0,Yes,Gravel,Yes,Low,30000011
+Land_13,New Capital City,395.0,Yes,Gravel,Yes,Low,30000012
+Land_14,New Capital City,396.0,Yes,Gravel,Yes,Low,30000013
+Land_15,New Capital City,397.0,Yes,Gravel,Yes,Low,30000014
+Land_16,New Capital City,398.0,Yes,Gravel,Yes,Low,30000015
+Land_17,New Capital City,399.0,Yes,Gravel,Yes,Low,30000016
+Land_18,New Capital City,400.0,Yes,Gravel,Yes,Low,30000017
+Land_19,New Capital City,401.0,Yes,Gravel,Yes,Low,30000018
+Land_20,New Capital City,402.0,Yes,Gravel,Yes,Low,30000019
+Land_21,New Capital City,403.0,Yes,Gravel,Yes,Low,30000020
+Land_22,New Capital City,240.0,Yes,Gravel,Yes,Low,20000000
+Land_23,New Capital City,241.0,Yes,Gravel,Yes,Low,20000001
+Land_24,New Capital City,242.0,Yes,Gravel,Yes,Low,20000002
+Land_25,New Capital City,243.0,Yes,Gravel,Yes,Low,20000003
+Land_26,New Capital City,244.0,Yes,Gravel,Yes,Low,20000004
+Land_27,New Capital City,245.0,Yes,Gravel,Yes,Low,20000005
+Land_28,New Capital City,246.0,Yes,Gravel,Yes,Low,20000006
+Land_29,New Capital City,247.0,Yes,Gravel,Yes,Low,20000007
+Land_30,New Capital City,248.0,Yes,Gravel,Yes,Low,20000008
+Land_31,New Capital City,249.0,Yes,Gravel,Yes,Low,20000009
+Land_32,New Capital City,250.0,Yes,Gravel,Yes,Low,20000010
+Land_33,New Capital City,251.0,Yes,Gravel,Yes,Low,20000011
+Land_34,New Capital City,252.0,Yes,Gravel,Yes,Low,20000012
+Land_35,New Capital City,253.0,Yes,Gravel,Yes,Low,20000013
+Land_36,New Capital City,254.0,Yes,Gravel,Yes,Low,20000014
+Land_37,New Capital City,255.0,Yes,Gravel,Yes,Low,20000015
+Land_38,New Capital City,256.0,Yes,Gravel,Yes,Low,20000016
+Land_39,New Capital City,257.0,Yes,Gravel,Yes,Low,20000017
+Land_40,New Capital City,258.0,Yes,Gravel,Yes,Low,20000018
+Land_41,New Capital City,259.0,Yes,Gravel,Yes,Low,20000019
+Land_42,New Capital City,260.0,Yes,Gravel,Yes,Low,20000020
+Land_43,New Capital City,300.0,Yes,Loam,No,Medium,30000000
+Land_44,New Capital City,301.0,Yes,Loam,No,Medium,30000001
+Land_45,New Capital City,302.0,Yes,Loam,No,Medium,30000002
+Land_46,New Capital City,303.0,Yes,Loam,No,Medium,30000003
+Land_47,New Capital City,304.0,Yes,Loam,No,Medium,30000004
+Land_48,New Capital City,305.0,Yes,Loam,No,Medium,30000005
+Land_49,New Capital City,306.0,Yes,Loam,No,Medium,30000006
+Land_50,New Capital City,307.0,Yes,Loam,No,Medium,30000007
+Land_51,New Capital City,308.0,Yes,Loam,No,Medium,30000008
+Land_52,New Capital City,309.0,Yes,Loam,No,Medium,30000009
+Land_53,New Capital City,310.0,Yes,Loam,No,Medium,30000010
+Land_54,New Capital City,311.0,Yes,Loam,No,Medium,30000011
+Land_55,New Capital City,312.0,Yes,Loam,No,Medium,30000012
+Land_56,New Capital City,313.0,Yes,Loam,No,Medium,30000013
+Land_57,New Capital City,314.0,Yes,Loam,No,Medium,30000014
+Land_58,New Capital City,315.0,Yes,Loam,No,Medium,30000015
+Land_59,New Capital City,316.0,Yes,Loam,No,Medium,30000016
+Land_60,New Capital City,317.0,Yes,Loam,No,Medium,30000017
+Land_61,New Capital City,318.0,Yes,Loam,No,Medium,30000018
+Land_62,New Capital City,319.0,Yes,Loam,No,Medium,30000019
+Land_63,New Capital City,320.0,Yes,Loam,No,Medium,30000020
+Land_64,New Capital City,370.0,Yes,Gravel,Yes,Medium,30000000
+Land_65,New Capital City,371.0,Yes,Gravel,Yes,Medium,30000001
+Land_66,New Capital City,372.0,Yes,Gravel,Yes,Medium,30000002
+Land_67,New Capital City,373.0,Yes,Gravel,Yes,Medium,30000003
+Land_68,New Capital City,374.0,Yes,Gravel,Yes,Medium,30000004
+Land_69,New Capital City,375.0,Yes,Gravel,Yes,Medium,30000005
+Land_70,New Capital City,376.0,Yes,Gravel,Yes,Medium,30000006
+Land_71,New Capital City,377.0,Yes,Gravel,Yes,Medium,30000007
+Land_72,New Capital City,378.0,Yes,Gravel,Yes,Medium,30000008
+Land_73,New Capital City,379.0,Yes,Gravel,Yes,Medium,30000009
+Land_74,New Capital City,380.0,Yes,Gravel,Yes,Medium,30000010
+Land_75,New Capital City,381.0,Yes,Gravel,Yes,Medium,30000011
+Land_76,New Capital City,382.0,Yes,Gravel,Yes,Medium,30000012
+Land_77,New Capital City,383.0,Yes,Gravel,Yes,Medium,30000013
+Land_78,New Capital City,384.0,Yes,Gravel,Yes,Medium,30000014
+Land_79,New Capital City,385.0,Yes,Gravel,Yes,Medium,30000015
+Land_80,New Capital City,386.0,Yes,Gravel,Yes,Medium,30000016
+Land_81,New Capital City,387.0,Yes,Gravel,Yes,Medium,30000017
+Land_82,New Capital City,388.0,Yes,Gravel,Yes,Medium,30000018
+Land_83,New Capital City,389.0,Yes,Gravel,Yes,Medium,30000019
+Land_84,New Capital City,390.0,Yes,Gravel,Yes,Medium,30000020
+Land_85,New Capital City,279.0,Yes,Loam,No,High,14000000
+Land_86,New Capital City,280.0,Yes,Loam,No,High,14000001
+Land_87,New Capital City,281.0,Yes,Loam,No,High,14000002
+Land_88,New Capital City,282.0,Yes,Loam,No,High,14000003
+Land_89,New Capital City,283.0,Yes,Loam,No,High,14000004
+Land_90,New Capital City,284.0,Yes,Loam,No,High,14000005
+Land_91,New Capital City,285.0,Yes,Loam,No,High,14000006
+Land_92,New Capital City,286.0,Yes,Loam,No,High,14000007
+Land_93,New Capital City,287.0,Yes,Loam,No,High,14000008
+Land_94,New Capital City,288.0,Yes,Loam,No,High,14000009
+Land_95,New Capital City,289.0,Yes,Loam,No,High,14000010
+Land_96,New Capital City,290.0,Yes,Loam,No,High,14000011
+Land_97,New Capital City,291.0,Yes,Loam,No,High,14000012
+Land_98,New Capital City,292.0,Yes,Loam,No,High,14000013
+Land_99,New Capital City,293.0,Yes,Loam,No,High,14000014
+Land_100,New Capital City,294.0,Yes,Loam,No,High,14000015
+Land_101,New Capital City,295.0,Yes,Loam,No,High,14000016
+Land_102,New Capital City,296.0,Yes,Loam,No,High,14000017
+Land_103,New Capital City,297.0,Yes,Loam,No,High,14000018
+Land_104,New Capital City,298.0,Yes,Loam,No,High,14000019
+Land_105,New Capital City,299.0,Yes,Loam,No,High,14000020
+Land_106,New Capital City,422.0,No,Clay,No,Low,22750000
+Land_107,New Capital City,423.0,No,Clay,No,Low,22750001
+Land_108,New Capital City,424.0,No,Clay,No,Low,22750002
+Land_109,New Capital City,425.0,No,Clay,No,Low,22750003
+Land_110,New Capital City,426.0,No,Clay,No,Low,22750004
+Land_111,New Capital City,427.0,No,Clay,No,Low,22750005
+Land_112,New Capital City,428.0,No,Clay,No,Low,22750006
+Land_113,New Capital City,429.0,No,Clay,No,Low,22750007
+Land_114,New Capital City,430.0,No,Clay,No,Low,22750008
+Land_115,New Capital City,431.0,No,Clay,No,Low,22750009
+Land_116,New Capital City,432.0,No,Clay,No,Low,22750010
+Land_117,New Capital City,433.0,No,Clay,No,Low,22750011
+Land_118,New Capital City,434.0,No,Clay,No,Low,22750012
+Land_119,New Capital City,435.0,No,Clay,No,Low,22750013
+Land_120,New Capital City,436.0,No,Clay,No,Low,22750014
+Land_121,New Capital City,437.0,No,Clay,No,Low,22750015
+Land_122,New Capital City,438.0,No,Clay,No,Low,22750016
+Land_123,New Capital City,439.0,No,Clay,No,Low,22750017
+Land_124,New Capital City,440.0,No,Clay,No,Low,22750018
+Land_125,New Capital City,441.0,No,Clay,No,Low,22750019
+Land_126,New Capital City,442.0,No,Clay,No,Low,22750020
+Land_127,New Capital City,300.0,Yes,Loam,Yes,Low,31775000
+Land_128,New Capital City,301.0,Yes,Loam,Yes,Low,31775001
+Land_129,New Capital City,302.0,Yes,Loam,Yes,Low,31775002
+Land_130,New Capital City,303.0,Yes,Loam,Yes,Low,31775003
+Land_131,New Capital City,304.0,Yes,Loam,Yes,Low,31775004
+Land_132,New Capital City,305.0,Yes,Loam,Yes,Low,31775005
+Land_133,New Capital City,306.0,Yes,Loam,Yes,Low,31775006
+Land_134,New Capital City,307.0,Yes,Loam,Yes,Low,31775007
+Land_135,New Capital City,308.0,Yes,Loam,Yes,Low,31775008
+Land_136,New Capital City,309.0,Yes,Loam,Yes,Low,31775009
+Land_137,New Capital City,310.0,Yes,Loam,Yes,Low,31775010
+Land_138,New Capital City,311.0,Yes,Loam,Yes,Low,31775011
+Land_139,New Capital City,312.0,Yes,Loam,Yes,Low,31775012
+Land_140,New Capital City,313.0,Yes,Loam,Yes,Low,31775013
+Land_141,New Capital City,314.0,Yes,Loam,Yes,Low,31775014
+Land_142,New Capital City,315.0,Yes,Loam,Yes,Low,31775015
+Land_143,New Capital City,316.0,Yes,Loam,Yes,Low,31775016
+Land_144,New Capital City,317.0,Yes,Loam,Yes,Low,31775017
+Land_145,New Capital City,318.0,Yes,Loam,Yes,Low,31775018
+Land_146,New Capital City,319.0,Yes,Loam,Yes,Low,31775019
+Land_147,New Capital City,320.0,Yes,Loam,Yes,Low,31775020
+Land_148,New Capital City,256.0,No,Clay,Yes,High,4500000
+Land_149,New Capital City,257.0,No,Clay,Yes,High,4500001
+Land_150,New Capital City,258.0,No,Clay,Yes,High,4500002
+Land_151,New Capital City,259.0,No,Clay,Yes,High,4500003
+Land_152,New Capital City,260.0,No,Clay,Yes,High,4500004
+Land_153,New Capital City,261.0,No,Clay,Yes,High,4500005
+Land_154,New Capital City,262.0,No,Clay,Yes,High,4500006
+Land_155,New Capital City,263.0,No,Clay,Yes,High,4500007
+Land_156,New Capital City,264.0,No,Clay,Yes,High,4500008
+Land_157,New Capital City,265.0,No,Clay,Yes,High,4500009
+Land_158,New Capital City,266.0,No,Clay,Yes,High,4500010
+Land_159,New Capital City,267.0,No,Clay,Yes,High,4500011
+Land_160,New Capital City,268.0,No,Clay,Yes,High,4500012
+Land_161,New Capital City,269.0,No,Clay,Yes,High,4500013
+Land_162,New Capital City,270.0,No,Clay,Yes,High,4500014
+Land_163,New Capital City,271.0,No,Clay,Yes,High,4500015
+Land_164,New Capital City,272.0,No,Clay,Yes,High,4500016
+Land_165,New Capital City,273.0,No,Clay,Yes,High,4500017
+Land_166,New Capital City,274.0,No,Clay,Yes,High,4500018
+Land_167,New Capital City,275.0,No,Clay,Yes,High,4500019
+Land_168,New Capital City,276.0,No,Clay,Yes,High,4500020
+Land_169,New Capital City,230.0,No,Clay,Yes,Low,6000000
+Land_170,New Capital City,231.0,No,Clay,Yes,Low,6000001
+Land_171,New Capital City,232.0,No,Clay,Yes,Low,6000002
+Land_172,New Capital City,233.0,No,Clay,Yes,Low,6000003
+Land_173,New Capital City,234.0,No,Clay,Yes,Low,6000004
+Land_174,New Capital City,235.0,No,Clay,Yes,Low,6000005
+Land_175,New Capital City,236.0,No,Clay,Yes,Low,6000006
+Land_176,New Capital City,237.0,No,Clay,Yes,Low,6000007
+Land_177,New Capital City,238.0,No,Clay,Yes,Low,6000008
+Land_178,New Capital City,239.0,No,Clay,Yes,Low,6000009
+Land_179,New Capital City,240.0,No,Clay,Yes,Low,6000010
+Land_180,New Capital City,241.0,No,Clay,Yes,Low,6000011
+Land_181,New Capital City,242.0,No,Clay,Yes,Low,6000012
+Land_182,New Capital City,243.0,No,Clay,Yes,Low,6000013
+Land_183,New Capital City,244.0,No,Clay,Yes,Low,6000014
+Land_184,New Capital City,245.0,No,Clay,Yes,Low,6000015
+Land_185,New Capital City,246.0,No,Clay,Yes,Low,6000016
+Land_186,New Capital City,247.0,No,Clay,Yes,Low,6000017
+Land_187,New Capital City,248.0,No,Clay,Yes,Low,6000018
+Land_188,New Capital City,249.0,No,Clay,Yes,Low,6000019
+Land_189,New Capital City,250.0,No,Clay,Yes,Low,6000020
+Land_190,New Capital City,280.0,No,Clay,No,Medium,6000000
+Land_191,New Capital City,281.0,No,Clay,No,Medium,6000001
+Land_192,New Capital City,282.0,No,Clay,No,Medium,6000002
+Land_193,New Capital City,283.0,No,Clay,No,Medium,6000003
+Land_194,New Capital City,284.0,No,Clay,No,Medium,6000004
+Land_195,New Capital City,285.0,No,Clay,No,Medium,6000005
+Land_196,New Capital City,286.0,No,Clay,No,Medium,6000006
+Land_197,New Capital City,287.0,No,Clay,No,Medium,6000007
+Land_198,New Capital City,288.0,No,Clay,No,Medium,6000008
+Land_199,New Capital City,289.0,No,Clay,No,Medium,6000009
+Land_200,New Capital City,290.0,No,Clay,No,Medium,6000010
+Land_201,New Capital City,291.0,No,Clay,No,Medium,6000011
+Land_202,New Capital City,292.0,No,Clay,No,Medium,6000012
+Land_203,New Capital City,293.0,No,Clay,No,Medium,6000013
+Land_204,New Capital City,294.0,No,Clay,No,Medium,6000014
+Land_205,New Capital City,295.0,No,Clay,No,Medium,6000015
+Land_206,New Capital City,296.0,No,Clay,No,Medium,6000016
+Land_207,New Capital City,297.0,No,Clay,No,Medium,6000017
+Land_208,New Capital City,298.0,No,Clay,No,Medium,6000018
+Land_209,New Capital City,299.0,No,Clay,No,Medium,6000019
+Land_210,New Capital City,300.0,No,Clay,No,Medium,6000020
+Land_211,New Capital City,230.0,No,Clay,No,Medium,7000000
+Land_212,New Capital City,231.0,No,Clay,No,Medium,7000001
+Land_213,New Capital City,232.0,No,Clay,No,Medium,7000002
+Land_214,New Capital City,233.0,No,Clay,No,Medium,7000003
+Land_215,New Capital City,234.0,No,Clay,No,Medium,7000004
+Land_216,New Capital City,235.0,No,Clay,No,Medium,7000005
+Land_217,New Capital City,236.0,No,Clay,No,Medium,7000006
+Land_218,New Capital City,237.0,No,Clay,No,Medium,7000007
+Land_219,New Capital City,238.0,No,Clay,No,Medium,7000008
+Land_220,New Capital City,239.0,No,Clay,No,Medium,7000009
+Land_221,New Capital City,240.0,No,Clay,No,Medium,7000010
+Land_222,New Capital City,241.0,No,Clay,No,Medium,7000011
+Land_223,New Capital City,242.0,No,Clay,No,Medium,7000012
+Land_224,New Capital City,243.0,No,Clay,No,Medium,7000013
+Land_225,New Capital City,244.0,No,Clay,No,Medium,7000014
+Land_226,New Capital City,245.0,No,Clay,No,Medium,7000015
+Land_227,New Capital City,246.0,No,Clay,No,Medium,7000016
+Land_228,New Capital City,247.0,No,Clay,No,Medium,7000017
+Land_229,New Capital City,248.0,No,Clay,No,Medium,7000018
+Land_230,New Capital City,249.0,No,Clay,No,Medium,7000019
+Land_231,New Capital City,250.0,No,Clay,No,Medium,7000020
+Land_232,New Capital City,340.0,Yes,Loam,No,Medium,37480000
+Land_233,New Capital City,341.0,Yes,Loam,No,Medium,37480001
+Land_234,New Capital City,342.0,Yes,Loam,No,Medium,37480002
+Land_235,New Capital City,343.0,Yes,Loam,No,Medium,37480003
+Land_236,New Capital City,344.0,Yes,Loam,No,Medium,37480004
+Land_237,New Capital City,345.0,Yes,Loam,No,Medium,37480005
+Land_238,New Capital City,346.0,Yes,Loam,No,Medium,37480006
+Land_239,New Capital City,347.0,Yes,Loam,No,Medium,37480007
+Land_240,New Capital City,348.0,Yes,Loam,No,Medium,37480008
+Land_241,New Capital City,349.0,Yes,Loam,No,Medium,37480009
+Land_242,New Capital City,350.0,Yes,Loam,No,Medium,37480010
+Land_243,New Capital City,351.0,Yes,Loam,No,Medium,37480011
+Land_244,New Capital City,352.0,Yes,Loam,No,Medium,37480012
+Land_245,New Capital City,353.0,Yes,Loam,No,Medium,37480013
+Land_246,New Capital City,354.0,Yes,Loam,No,Medium,37480014
+Land_247,New Capital City,355.0,Yes,Loam,No,Medium,37480015
+Land_248,New Capital City,356.0,Yes,Loam,No,Medium,37480016
+Land_249,New Capital City,357.0,Yes,Loam,No,Medium,37480017
+Land_250,New Capital City,358.0,Yes,Loam,No,Medium,37480018
+Land_251,New Capital City,359.0,Yes,Loam,No,Medium,37480019
+Land_252,New Capital City,360.0,Yes,Loam,No,Medium,37480020
+Land_253,New Capital City,212.0,Yes,Loam,Yes,Low,11000000
+Land_254,New Capital City,213.0,Yes,Loam,Yes,Low,11000001
+Land_255,New Capital City,214.0,Yes,Loam,Yes,Low,11000002
+Land_256,New Capital City,215.0,Yes,Loam,Yes,Low,11000003
+Land_257,New Capital City,216.0,Yes,Loam,Yes,Low,11000004
+Land_258,New Capital City,217.0,Yes,Loam,Yes,Low,11000005
+Land_259,New Capital City,218.0,Yes,Loam,Yes,Low,11000006
+Land_260,New Capital City,219.0,Yes,Loam,Yes,Low,11000007
+Land_261,New Capital City,220.0,Yes,Loam,Yes,Low,11000008
+Land_262,New Capital City,221.0,Yes,Loam,Yes,Low,11000009
+Land_263,New Capital City,222.0,Yes,Loam,Yes,Low,11000010
+Land_264,New Capital City,223.0,Yes,Loam,Yes,Low,11000011
+Land_265,New Capital City,224.0,Yes,Loam,Yes,Low,11000012
+Land_266,New Capital City,225.0,Yes,Loam,Yes,Low,11000013
+Land_267,New Capital City,226.0,Yes,Loam,Yes,Low,11000014
+Land_268,New Capital City,227.0,Yes,Loam,Yes,Low,11000015
+Land_269,New Capital City,228.0,Yes,Loam,Yes,Low,11000016
+Land_270,New Capital City,229.0,Yes,Loam,Yes,Low,11000017
+Land_271,New Capital City,230.0,Yes,Loam,Yes,Low,11000018
+Land_272,New Capital City,231.0,Yes,Loam,Yes,Low,11000019
+Land_273,New Capital City,232.0,Yes,Loam,Yes,Low,11000020
+Land_274,New Capital City,212.0,No,Clay,Yes,Low,8500000
+Land_275,New Capital City,213.0,No,Clay,Yes,Low,8500001
+Land_276,New Capital City,214.0,No,Clay,Yes,Low,8500002
+Land_277,New Capital City,215.0,No,Clay,Yes,Low,8500003
+Land_278,New Capital City,216.0,No,Clay,Yes,Low,8500004
+Land_279,New Capital City,217.0,No,Clay,Yes,Low,8500005
+Land_280,New Capital City,218.0,No,Clay,Yes,Low,8500006
+Land_281,New Capital City,219.0,No,Clay,Yes,Low,8500007
+Land_282,New Capital City,220.0,No,Clay,Yes,Low,8500008
+Land_283,New Capital City,221.0,No,Clay,Yes,Low,8500009
+Land_284,New Capital City,222.0,No,Clay,Yes,Low,8500010
+Land_285,New Capital City,223.0,No,Clay,Yes,Low,8500011
+Land_286,New Capital City,224.0,No,Clay,Yes,Low,8500012
+Land_287,New Capital City,225.0,No,Clay,Yes,Low,8500013
+Land_288,New Capital City,226.0,No,Clay,Yes,Low,8500014
+Land_289,New Capital City,227.0,No,Clay,Yes,Low,8500015
+Land_290,New Capital City,228.0,No,Clay,Yes,Low,8500016
+Land_291,New Capital City,229.0,No,Clay,Yes,Low,8500017
+Land_292,New Capital City,230.0,No,Clay,Yes,Low,8500018
+Land_293,New Capital City,231.0,No,Clay,Yes,Low,8500019
+Land_294,New Capital City,232.0,No,Clay,Yes,Low,8500020
+Land_295,New Capital City,206.0,No,Clay,Yes,High,3000000
+Land_296,New Capital City,207.0,No,Clay,Yes,High,3000001
+Land_297,New Capital City,208.0,No,Clay,Yes,High,3000002
+Land_298,New Capital City,209.0,No,Clay,Yes,High,3000003
+Land_299,New Capital City,210.0,No,Clay,Yes,High,3000004
+Land_300,New Capital City,211.0,No,Clay,Yes,High,3000005
+Land_301,New Capital City,212.0,No,Clay,Yes,High,3000006
+Land_302,New Capital City,213.0,No,Clay,Yes,High,3000007
+Land_303,New Capital City,214.0,No,Clay,Yes,High,3000008
+Land_304,New Capital City,215.0,No,Clay,Yes,High,3000009
+Land_305,New Capital City,216.0,No,Clay,Yes,High,3000010
+Land_306,New Capital City,217.0,No,Clay,Yes,High,3000011
+Land_307,New Capital City,218.0,No,Clay,Yes,High,3000012
+Land_308,New Capital City,219.0,No,Clay,Yes,High,3000013
+Land_309,New Capital City,220.0,No,Clay,Yes,High,3000014
+Land_310,New Capital City,221.0,No,Clay,Yes,High,3000015
+Land_311,New Capital City,222.0,No,Clay,Yes,High,3000016
+Land_312,New Capital City,223.0,No,Clay,Yes,High,3000017
+Land_313,New Capital City,224.0,No,Clay,Yes,High,3000018
+Land_314,New Capital City,225.0,No,Clay,Yes,High,3000019
+Land_315,New Capital City,226.0,No,Clay,Yes,High,3000020
+Land_316,New Capital City,239.0,Yes,Gravel,No,High,15000000
+Land_317,New Capital City,240.0,Yes,Gravel,No,High,15000001
+Land_318,New Capital City,241.0,Yes,Gravel,No,High,15000002
+Land_319,New Capital City,242.0,Yes,Gravel,No,High,15000003
+Land_320,New Capital City,243.0,Yes,Gravel,No,High,15000004
+Land_321,New Capital City,244.0,Yes,Gravel,No,High,15000005
+Land_322,New Capital City,245.0,Yes,Gravel,No,High,15000006
+Land_323,New Capital City,246.0,Yes,Gravel,No,High,15000007
+Land_324,New Capital City,247.0,Yes,Gravel,No,High,15000008
+Land_325,New Capital City,248.0,Yes,Gravel,No,High,15000009
+Land_326,New Capital City,249.0,Yes,Gravel,No,High,15000010
+Land_327,New Capital City,250.0,Yes,Gravel,No,High,15000011
+Land_328,New Capital City,251.0,Yes,Gravel,No,High,15000012
+Land_329,New Capital City,252.0,Yes,Gravel,No,High,15000013
+Land_330,New Capital City,253.0,Yes,Gravel,No,High,15000014
+Land_331,New Capital City,254.0,Yes,Gravel,No,High,15000015
+Land_332,New Capital City,255.0,Yes,Gravel,No,High,15000016
+Land_333,New Capital City,256.0,Yes,Gravel,No,High,15000017
+Land_334,New Capital City,257.0,Yes,Gravel,No,High,15000018
+Land_335,New Capital City,258.0,Yes,Gravel,No,High,15000019
+Land_336,New Capital City,259.0,Yes,Gravel,No,High,15000020
+Land_337,New Capital City,212.0,No,Clay,No,High,8700000
+Land_338,New Capital City,213.0,No,Clay,No,High,8700001
+Land_339,New Capital City,214.0,No,Clay,No,High,8700002
+Land_340,New Capital City,215.0,No,Clay,No,High,8700003
+Land_341,New Capital City,216.0,No,Clay,No,High,8700004
+Land_342,New Capital City,217.0,No,Clay,No,High,8700005
+Land_343,New Capital City,218.0,No,Clay,No,High,8700006
+Land_344,New Capital City,219.0,No,Clay,No,High,8700007
+Land_345,New Capital City,220.0,No,Clay,No,High,8700008
+Land_346,New Capital City,221.0,No,Clay,No,High,8700009
+Land_347,New Capital City,222.0,No,Clay,No,High,8700010
+Land_348,New Capital City,223.0,No,Clay,No,High,8700011
+Land_349,New Capital City,224.0,No,Clay,No,High,8700012
+Land_350,New Capital City,225.0,No,Clay,No,High,8700013
+Land_351,New Capital City,226.0,No,Clay,No,High,8700014
+Land_352,New Capital City,227.0,No,Clay,No,High,8700015
+Land_353,New Capital City,228.0,No,Clay,No,High,8700016
+Land_354,New Capital City,229.0,No,Clay,No,High,8700017
+Land_355,New Capital City,230.0,No,Clay,No,High,8700018
+Land_356,New Capital City,231.0,No,Clay,No,High,8700019
+Land_357,New Capital City,232.0,No,Clay,No,High,8700020
+Land_358,New Capital City,370.0,Yes,Gravel,No,Low,15000000
+Land_359,New Capital City,371.0,Yes,Gravel,No,Low,15000001
+Land_360,New Capital City,372.0,Yes,Gravel,No,Low,15000002
+Land_361,New Capital City,373.0,Yes,Gravel,No,Low,15000003
+Land_362,New Capital City,374.0,Yes,Gravel,No,Low,15000004
+Land_363,New Capital City,375.0,Yes,Gravel,No,Low,15000005
+Land_364,New Capital City,376.0,Yes,Gravel,No,Low,15000006
+Land_365,New Capital City,377.0,Yes,Gravel,No,Low,15000007
+Land_366,New Capital City,378.0,Yes,Gravel,No,Low,15000008
+Land_367,New Capital City,379.0,Yes,Gravel,No,Low,15000009
+Land_368,New Capital City,380.0,Yes,Gravel,No,Low,15000010
+Land_369,New Capital City,381.0,Yes,Gravel,No,Low,15000011
+Land_370,New Capital City,382.0,Yes,Gravel,No,Low,15000012
+Land_371,New Capital City,383.0,Yes,Gravel,No,Low,15000013
+Land_372,New Capital City,384.0,Yes,Gravel,No,Low,15000014
+Land_373,New Capital City,385.0,Yes,Gravel,No,Low,15000015
+Land_374,New Capital City,386.0,Yes,Gravel,No,Low,15000016
+Land_375,New Capital City,387.0,Yes,Gravel,No,Low,15000017
+Land_376,New Capital City,388.0,Yes,Gravel,No,Low,15000018
+Land_377,New Capital City,389.0,Yes,Gravel,No,Low,15000019
+Land_378,New Capital City,390.0,Yes,Gravel,No,Low,15000020
+Land_379,New Capital City,211.0,Yes,Loam,No,Low,17600000
+Land_380,New Capital City,212.0,Yes,Loam,No,Low,17600001
+Land_381,New Capital City,213.0,Yes,Loam,No,Low,17600002
+Land_382,New Capital City,214.0,Yes,Loam,No,Low,17600003
+Land_383,New Capital City,215.0,Yes,Loam,No,Low,17600004
+Land_384,New Capital City,216.0,Yes,Loam,No,Low,17600005
+Land_385,New Capital City,217.0,Yes,Loam,No,Low,17600006
+Land_386,New Capital City,218.0,Yes,Loam,No,Low,17600007
+Land_387,New Capital City,219.0,Yes,Loam,No,Low,17600008
+Land_388,New Capital City,220.0,Yes,Loam,No,Low,17600009
+Land_389,New Capital City,221.0,Yes,Loam,No,Low,17600010
+Land_390,New Capital City,222.0,Yes,Loam,No,Low,17600011
+Land_391,New Capital City,223.0,Yes,Loam,No,Low,17600012
+Land_392,New Capital City,224.0,Yes,Loam,No,Low,17600013
+Land_393,New Capital City,225.0,Yes,Loam,No,Low,17600014
+Land_394,New Capital City,226.0,Yes,Loam,No,Low,17600015
+Land_395,New Capital City,227.0,Yes,Loam,No,Low,17600016
+Land_396,New Capital City,228.0,Yes,Loam,No,Low,17600017
+Land_397,New Capital City,229.0,Yes,Loam,No,Low,17600018
+Land_398,New Capital City,230.0,Yes,Loam,No,Low,17600019
+Land_399,New Capital City,231.0,Yes,Loam,No,Low,17600020
+Land_400,New Capital City,926.0,Yes,Loam,No,Low,99000000
+Land_401,New Capital City,927.0,Yes,Loam,No,Low,99000001
+Land_402,New Capital City,928.0,Yes,Loam,No,Low,99000002
+Land_403,New Capital City,929.0,Yes,Loam,No,Low,99000003
+Land_404,New Capital City,930.0,Yes,Loam,No,Low,99000004
+Land_405,New Capital City,931.0,Yes,Loam,No,Low,99000005
+Land_406,New Capital City,932.0,Yes,Loam,No,Low,99000006
+Land_407,New Capital City,933.0,Yes,Loam,No,Low,99000007
+Land_408,New Capital City,934.0,Yes,Loam,No,Low,99000008
+Land_409,New Capital City,935.0,Yes,Loam,No,Low,99000009
+Land_410,New Capital City,936.0,Yes,Loam,No,Low,99000010
+Land_411,New Capital City,937.0,Yes,Loam,No,Low,99000011
+Land_412,New Capital City,938.0,Yes,Loam,No,Low,99000012
+Land_413,New Capital City,939.0,Yes,Loam,No,Low,99000013
+Land_414,New Capital City,940.0,Yes,Loam,No,Low,99000014
+Land_415,New Capital City,941.0,Yes,Loam,No,Low,99000015
+Land_416,New Capital City,942.0,Yes,Loam,No,Low,99000016
+Land_417,New Capital City,943.0,Yes,Loam,No,Low,99000017
+Land_418,New Capital City,944.0,Yes,Loam,No,Low,99000018
+Land_419,New Capital City,945.0,Yes,Loam,No,Low,99000019
+Land_420,New Capital City,946.0,Yes,Loam,No,Low,99000020
+Land_421,Sheikh Zayed,1800.0,No,Clay,No,Low,12500000
+Land_422,Sheikh Zayed,1801.0,No,Clay,No,Low,12500001
+Land_423,Sheikh Zayed,1802.0,No,Clay,No,Low,12500002
+Land_424,Sheikh Zayed,1803.0,No,Clay,No,Low,12500003
+Land_425,Sheikh Zayed,1804.0,No,Clay,No,Low,12500004
+Land_426,Sheikh Zayed,1805.0,No,Clay,No,Low,12500005
+Land_427,Sheikh Zayed,1806.0,No,Clay,No,Low,12500006
+Land_428,Sheikh Zayed,1807.0,No,Clay,No,Low,12500007
+Land_429,Sheikh Zayed,1808.0,No,Clay,No,Low,12500008
+Land_430,Sheikh Zayed,1809.0,No,Clay,No,Low,12500009
+Land_431,Sheikh Zayed,1810.0,No,Clay,No,Low,12500010
+Land_432,Sheikh Zayed,1811.0,No,Clay,No,Low,12500011
+Land_433,Sheikh Zayed,1812.0,No,Clay,No,Low,12500012
+Land_434,Sheikh Zayed,1813.0,No,Clay,No,Low,12500013
+Land_435,Sheikh Zayed,1814.0,No,Clay,No,Low,12500014
+Land_436,Sheikh Zayed,1815.0,No,Clay,No,Low,12500015
+Land_437,Sheikh Zayed,1816.0,No,Clay,No,Low,12500016
+Land_438,Sheikh Zayed,1817.0,No,Clay,No,Low,12500017
+Land_439,Sheikh Zayed,1818.0,No,Clay,No,Low,12500018
+Land_440,Sheikh Zayed,1819.0,No,Clay,No,Low,12500019
+Land_441,Sheikh Zayed,1820.0,No,Clay,No,Low,12500020
+Land_442,Sheikh Zayed,1921.0,No,Clay,No,Low,14800000
+Land_443,Sheikh Zayed,1922.0,No,Clay,No,Low,14800001
+Land_444,Sheikh Zayed,1923.0,No,Clay,No,Low,14800002
+Land_445,Sheikh Zayed,1924.0,No,Clay,No,Low,14800003
+Land_446,Sheikh Zayed,1925.0,No,Clay,No,Low,14800004
+Land_447,Sheikh Zayed,1926.0,No,Clay,No,Low,14800005
+Land_448,Sheikh Zayed,1927.0,No,Clay,No,Low,14800006
+Land_449,Sheikh Zayed,1928.0,No,Clay,No,Low,14800007
+Land_450,Sheikh Zayed,1929.0,No,Clay,No,Low,14800008
+Land_451,Sheikh Zayed,1930.0,No,Clay,No,Low,14800009
+Land_452,Sheikh Zayed,1931.0,No,Clay,No,Low,14800010
+Land_453,Sheikh Zayed,1932.0,No,Clay,No,Low,14800011
+Land_454,Sheikh Zayed,1933.0,No,Clay,No,Low,14800012
+Land_455,Sheikh Zayed,1934.0,No,Clay,No,Low,14800013
+Land_456,Sheikh Zayed,1935.0,No,Clay,No,Low,14800014
+Land_457,Sheikh Zayed,1936.0,No,Clay,No,Low,14800015
+Land_458,Sheikh Zayed,1937.0,No,Clay,No,Low,14800016
+Land_459,Sheikh Zayed,1938.0,No,Clay,No,Low,14800017
+Land_460,Sheikh Zayed,1939.0,No,Clay,No,Low,14800018
+Land_461,Sheikh Zayed,1940.0,No,Clay,No,Low,14800019
+Land_462,Sheikh Zayed,1941.0,No,Clay,No,Low,14800020
+Land_463,Sheikh Zayed,6084.0,No,Clay,No,Medium,60840000
+Land_464,Sheikh Zayed,6085.0,No,Clay,No,Medium,60840001
+Land_465,Sheikh Zayed,6086.0,No,Clay,No,Medium,60840002
+Land_466,Sheikh Zayed,6087.0,No,Clay,No,Medium,60840003
+Land_467,Sheikh Zayed,6088.0,No,Clay,No,Medium,60840004
+Land_468,Sheikh Zayed,6089.0,No,Clay,No,Medium,60840005
+Land_469,Sheikh Zayed,6090.0,No,Clay,No,Medium,60840006
+Land_470,Sheikh Zayed,6091.0,No,Clay,No,Medium,60840007
+Land_471,Sheikh Zayed,6092.0,No,Clay,No,Medium,60840008
+Land_472,Sheikh Zayed,6093.0,No,Clay,No,Medium,60840009
+Land_473,Sheikh Zayed,6094.0,No,Clay,No,Medium,60840010
+Land_474,Sheikh Zayed,6095.0,No,Clay,No,Medium,60840011
+Land_475,Sheikh Zayed,6096.0,No,Clay,No,Medium,60840012
+Land_476,Sheikh Zayed,6097.0,No,Clay,No,Medium,60840013
+Land_477,Sheikh Zayed,6098.0,No,Clay,No,Medium,60840014
+Land_478,Sheikh Zayed,6099.0,No,Clay,No,Medium,60840015
+Land_479,Sheikh Zayed,6100.0,No,Clay,No,Medium,60840016
+Land_480,Sheikh Zayed,6101.0,No,Clay,No,Medium,60840017
+Land_481,Sheikh Zayed,6102.0,No,Clay,No,Medium,60840018
+Land_482,Sheikh Zayed,6103.0,No,Clay,No,Medium,60840019
+Land_483,Sheikh Zayed,6104.0,No,Clay,No,Medium,60840020
+Land_484,Sheikh Zayed,18000.0,Yes,Gravel,Yes,Medium,135000000
+Land_485,Sheikh Zayed,18001.0,Yes,Gravel,Yes,Medium,135000001
+Land_486,Sheikh Zayed,18002.0,Yes,Gravel,Yes,Medium,135000002
+Land_487,Sheikh Zayed,18003.0,Yes,Gravel,Yes,Medium,135000003
+Land_488,Sheikh Zayed,18004.0,Yes,Gravel,Yes,Medium,135000004
+Land_489,Sheikh Zayed,18005.0,Yes,Gravel,Yes,Medium,135000005
+Land_490,Sheikh Zayed,18006.0,Yes,Gravel,Yes,Medium,135000006
+Land_491,Sheikh Zayed,18007.0,Yes,Gravel,Yes,Medium,135000007
+Land_492,Sheikh Zayed,18008.0,Yes,Gravel,Yes,Medium,135000008
+Land_493,Sheikh Zayed,18009.0,Yes,Gravel,Yes,Medium,135000009
+Land_494,Sheikh Zayed,18010.0,Yes,Gravel,Yes,Medium,135000010
+Land_495,Sheikh Zayed,18011.0,Yes,Gravel,Yes,Medium,135000011
+Land_496,Sheikh Zayed,18012.0,Yes,Gravel,Yes,Medium,135000012
+Land_497,Sheikh Zayed,18013.0,Yes,Gravel,Yes,Medium,135000013
+Land_498,Sheikh Zayed,18014.0,Yes,Gravel,Yes,Medium,135000014
+Land_499,Sheikh Zayed,18015.0,Yes,Gravel,Yes,Medium,135000015
+Land_500,Sheikh Zayed,18016.0,Yes,Gravel,Yes,Medium,135000016
+Land_501,Sheikh Zayed,18017.0,Yes,Gravel,Yes,Medium,135000017
+Land_502,Sheikh Zayed,18018.0,Yes,Gravel,Yes,Medium,135000018
+Land_503,Sheikh Zayed,18019.0,Yes,Gravel,Yes,Medium,135000019
+Land_504,Sheikh Zayed,18020.0,Yes,Gravel,Yes,Medium,135000020
+Land_505,Sheikh Zayed,267.0,Yes,Loam,Yes,Medium,15300000
+Land_506,Sheikh Zayed,268.0,Yes,Loam,Yes,Medium,15300001
+Land_507,Sheikh Zayed,269.0,Yes,Loam,Yes,Medium,15300002
+Land_508,Sheikh Zayed,270.0,Yes,Loam,Yes,Medium,15300003
+Land_509,Sheikh Zayed,271.0,Yes,Loam,Yes,Medium,15300004
+Land_510,Sheikh Zayed,272.0,Yes,Loam,Yes,Medium,15300005
+Land_511,Sheikh Zayed,273.0,Yes,Loam,Yes,Medium,15300006
+Land_512,Sheikh Zayed,274.0,Yes,Loam,Yes,Medium,15300007
+Land_513,Sheikh Zayed,275.0,Yes,Loam,Yes,Medium,15300008
+Land_514,Sheikh Zayed,276.0,Yes,Loam,Yes,Medium,15300009
+Land_515,Sheikh Zayed,277.0,Yes,Loam,Yes,Medium,15300010
+Land_516,Sheikh Zayed,278.0,Yes,Loam,Yes,Medium,15300011
+Land_517,Sheikh Zayed,279.0,Yes,Loam,Yes,Medium,15300012
+Land_518,Sheikh Zayed,280.0,Yes,Loam,Yes,Medium,15300013
+Land_519,Sheikh Zayed,281.0,Yes,Loam,Yes,Medium,15300014
+Land_520,Sheikh Zayed,282.0,Yes,Loam,Yes,Medium,15300015
+Land_521,Sheikh Zayed,283.0,Yes,Loam,Yes,Medium,15300016
+Land_522,Sheikh Zayed,284.0,Yes,Loam,Yes,Medium,15300017
+Land_523,Sheikh Zayed,285.0,Yes,Loam,Yes,Medium,15300018
+Land_524,Sheikh Zayed,286.0,Yes,Loam,Yes,Medium,15300019
+Land_525,Sheikh Zayed,287.0,Yes,Loam,Yes,Medium,15300020
+Land_526,Sheikh Zayed,105000.0,No,Clay,Yes,Medium,425000000
+Land_527,Sheikh Zayed,105001.0,No,Clay,Yes,Medium,425000001
+Land_528,Sheikh Zayed,105002.0,No,Clay,Yes,Medium,425000002
+Land_529,Sheikh Zayed,105003.0,No,Clay,Yes,Medium,425000003
+Land_530,Sheikh Zayed,105004.0,No,Clay,Yes,Medium,425000004
+Land_531,Sheikh Zayed,105005.0,No,Clay,Yes,Medium,425000005
+Land_532,Sheikh Zayed,105006.0,No,Clay,Yes,Medium,425000006
+Land_533,Sheikh Zayed,105007.0,No,Clay,Yes,Medium,425000007
+Land_534,Sheikh Zayed,105008.0,No,Clay,Yes,Medium,425000008
+Land_535,Sheikh Zayed,105009.0,No,Clay,Yes,Medium,425000009
+Land_536,Sheikh Zayed,105010.0,No,Clay,Yes,Medium,425000010
+Land_537,Sheikh Zayed,105011.0,No,Clay,Yes,Medium,425000011
+Land_538,Sheikh Zayed,105012.0,No,Clay,Yes,Medium,425000012
+Land_539,Sheikh Zayed,105013.0,No,Clay,Yes,Medium,425000013
+Land_540,Sheikh Zayed,105014.0,No,Clay,Yes,Medium,425000014
+Land_541,Sheikh Zayed,105015.0,No,Clay,Yes,Medium,425000015
+Land_542,Sheikh Zayed,105016.0,No,Clay,Yes,Medium,425000016
+Land_543,Sheikh Zayed,105017.0,No,Clay,Yes,Medium,425000017
+Land_544,Sheikh Zayed,105018.0,No,Clay,Yes,Medium,425000018
+Land_545,Sheikh Zayed,105019.0,No,Clay,Yes,Medium,425000019
+Land_546,Sheikh Zayed,105020.0,No,Clay,Yes,Medium,425000020
+Land_547,Sheikh Zayed,105000.0,No,Clay,Yes,Medium,430000000
+Land_548,Sheikh Zayed,105001.0,No,Clay,Yes,Medium,430000001
+Land_549,Sheikh Zayed,105002.0,No,Clay,Yes,Medium,430000002
+Land_550,Sheikh Zayed,105003.0,No,Clay,Yes,Medium,430000003
+Land_551,Sheikh Zayed,105004.0,No,Clay,Yes,Medium,430000004
+Land_552,Sheikh Zayed,105005.0,No,Clay,Yes,Medium,430000005
+Land_553,Sheikh Zayed,105006.0,No,Clay,Yes,Medium,430000006
+Land_554,Sheikh Zayed,105007.0,No,Clay,Yes,Medium,430000007
+Land_555,Sheikh Zayed,105008.0,No,Clay,Yes,Medium,430000008
+Land_556,Sheikh Zayed,105009.0,No,Clay,Yes,Medium,430000009
+Land_557,Sheikh Zayed,105010.0,No,Clay,Yes,Medium,430000010
+Land_558,Sheikh Zayed,105011.0,No,Clay,Yes,Medium,430000011
+Land_559,Sheikh Zayed,105012.0,No,Clay,Yes,Medium,430000012
+Land_560,Sheikh Zayed,105013.0,No,Clay,Yes,Medium,430000013
+Land_561,Sheikh Zayed,105014.0,No,Clay,Yes,Medium,430000014
+Land_562,Sheikh Zayed,105015.0,No,Clay,Yes,Medium,430000015
+Land_563,Sheikh Zayed,105016.0,No,Clay,Yes,Medium,430000016
+Land_564,Sheikh Zayed,105017.0,No,Clay,Yes,Medium,430000017
+Land_565,Sheikh Zayed,105018.0,No,Clay,Yes,Medium,430000018
+Land_566,Sheikh Zayed,105019.0,No,Clay,Yes,Medium,430000019
+Land_567,Sheikh Zayed,105020.0,No,Clay,Yes,Medium,430000020
+Land_568,Sheikh Zayed,46739.0,Yes,Gravel,Yes,Low,-2147483648
+Land_569,Sheikh Zayed,46740.0,Yes,Gravel,Yes,Low,-2147483648
+Land_570,Sheikh Zayed,46741.0,Yes,Gravel,Yes,Low,-2147483648
+Land_571,Sheikh Zayed,46742.0,Yes,Gravel,Yes,Low,-2147483648
+Land_572,Sheikh Zayed,46743.0,Yes,Gravel,Yes,Low,-2147483648
+Land_573,Sheikh Zayed,46744.0,Yes,Gravel,Yes,Low,-2147483648
+Land_574,Sheikh Zayed,46745.0,Yes,Gravel,Yes,Low,-2147483648
+Land_575,Sheikh Zayed,46746.0,Yes,Gravel,Yes,Low,-2147483648
+Land_576,Sheikh Zayed,46747.0,Yes,Gravel,Yes,Low,-2147483648
+Land_577,Sheikh Zayed,46748.0,Yes,Gravel,Yes,Low,-2147483648
+Land_578,Sheikh Zayed,46749.0,Yes,Gravel,Yes,Low,-2147483648
+Land_579,Sheikh Zayed,46750.0,Yes,Gravel,Yes,Low,-2147483648
+Land_580,Sheikh Zayed,46751.0,Yes,Gravel,Yes,Low,-2147483648
+Land_581,Sheikh Zayed,46752.0,Yes,Gravel,Yes,Low,-2147483648
+Land_582,Sheikh Zayed,46753.0,Yes,Gravel,Yes,Low,-2147483648
+Land_583,Sheikh Zayed,46754.0,Yes,Gravel,Yes,Low,-2147483648
+Land_584,Sheikh Zayed,46755.0,Yes,Gravel,Yes,Low,-2147483648
+Land_585,Sheikh Zayed,46756.0,Yes,Gravel,Yes,Low,-2147483648
+Land_586,Sheikh Zayed,46757.0,Yes,Gravel,Yes,Low,-2147483648
+Land_587,Sheikh Zayed,46758.0,Yes,Gravel,Yes,Low,-2147483648
+Land_588,Sheikh Zayed,46759.0,Yes,Gravel,Yes,Low,-2147483648
+Land_589,Sheikh Zayed,20000.0,No,Clay,No,Medium,36000000
+Land_590,Sheikh Zayed,20001.0,No,Clay,No,Medium,36000001
+Land_591,Sheikh Zayed,20002.0,No,Clay,No,Medium,36000002
+Land_592,Sheikh Zayed,20003.0,No,Clay,No,Medium,36000003
+Land_593,Sheikh Zayed,20004.0,No,Clay,No,Medium,36000004
+Land_594,Sheikh Zayed,20005.0,No,Clay,No,Medium,36000005
+Land_595,Sheikh Zayed,20006.0,No,Clay,No,Medium,36000006
+Land_596,Sheikh Zayed,20007.0,No,Clay,No,Medium,36000007
+Land_597,Sheikh Zayed,20008.0,No,Clay,No,Medium,36000008
+Land_598,Sheikh Zayed,20009.0,No,Clay,No,Medium,36000009
+Land_599,Sheikh Zayed,20010.0,No,Clay,No,Medium,36000010
+Land_600,Sheikh Zayed,20011.0,No,Clay,No,Medium,36000011
+Land_601,Sheikh Zayed,20012.0,No,Clay,No,Medium,36000012
+Land_602,Sheikh Zayed,20013.0,No,Clay,No,Medium,36000013
+Land_603,Sheikh Zayed,20014.0,No,Clay,No,Medium,36000014
+Land_604,Sheikh Zayed,20015.0,No,Clay,No,Medium,36000015
+Land_605,Sheikh Zayed,20016.0,No,Clay,No,Medium,36000016
+Land_606,Sheikh Zayed,20017.0,No,Clay,No,Medium,36000017
+Land_607,Sheikh Zayed,20018.0,No,Clay,No,Medium,36000018
+Land_608,Sheikh Zayed,20019.0,No,Clay,No,Medium,36000019
+Land_609,Sheikh Zayed,20020.0,No,Clay,No,Medium,36000020
+Land_610,Sheikh Zayed,1000.0,No,Clay,No,Medium,2800000
+Land_611,Sheikh Zayed,1001.0,No,Clay,No,Medium,2800001
+Land_612,Sheikh Zayed,1002.0,No,Clay,No,Medium,2800002
+Land_613,Sheikh Zayed,1003.0,No,Clay,No,Medium,2800003
+Land_614,Sheikh Zayed,1004.0,No,Clay,No,Medium,2800004
+Land_615,Sheikh Zayed,1005.0,No,Clay,No,Medium,2800005
+Land_616,Sheikh Zayed,1006.0,No,Clay,No,Medium,2800006
+Land_617,Sheikh Zayed,1007.0,No,Clay,No,Medium,2800007
+Land_618,Sheikh Zayed,1008.0,No,Clay,No,Medium,2800008
+Land_619,Sheikh Zayed,1009.0,No,Clay,No,Medium,2800009
+Land_620,Sheikh Zayed,1010.0,No,Clay,No,Medium,2800010
+Land_621,Sheikh Zayed,1011.0,No,Clay,No,Medium,2800011
+Land_622,Sheikh Zayed,1012.0,No,Clay,No,Medium,2800012
+Land_623,Sheikh Zayed,1013.0,No,Clay,No,Medium,2800013
+Land_624,Sheikh Zayed,1014.0,No,Clay,No,Medium,2800014
+Land_625,Sheikh Zayed,1015.0,No,Clay,No,Medium,2800015
+Land_626,Sheikh Zayed,1016.0,No,Clay,No,Medium,2800016
+Land_627,Sheikh Zayed,1017.0,No,Clay,No,Medium,2800017
+Land_628,Sheikh Zayed,1018.0,No,Clay,No,Medium,2800018
+Land_629,Sheikh Zayed,1019.0,No,Clay,No,Medium,2800019
+Land_630,Sheikh Zayed,1020.0,No,Clay,No,Medium,2800020
+Land_631,Sheikh Zayed,2000.0,Yes,Gravel,No,Low,40000000
+Land_632,Sheikh Zayed,2001.0,Yes,Gravel,No,Low,40000001
+Land_633,Sheikh Zayed,2002.0,Yes,Gravel,No,Low,40000002
+Land_634,Sheikh Zayed,2003.0,Yes,Gravel,No,Low,40000003
+Land_635,Sheikh Zayed,2004.0,Yes,Gravel,No,Low,40000004
+Land_636,Sheikh Zayed,2005.0,Yes,Gravel,No,Low,40000005
+Land_637,Sheikh Zayed,2006.0,Yes,Gravel,No,Low,40000006
+Land_638,Sheikh Zayed,2007.0,Yes,Gravel,No,Low,40000007
+Land_639,Sheikh Zayed,2008.0,Yes,Gravel,No,Low,40000008
+Land_640,Sheikh Zayed,2009.0,Yes,Gravel,No,Low,40000009
+Land_641,Sheikh Zayed,2010.0,Yes,Gravel,No,Low,40000010
+Land_642,Sheikh Zayed,2011.0,Yes,Gravel,No,Low,40000011
+Land_643,Sheikh Zayed,2012.0,Yes,Gravel,No,Low,40000012
+Land_644,Sheikh Zayed,2013.0,Yes,Gravel,No,Low,40000013
+Land_645,Sheikh Zayed,2014.0,Yes,Gravel,No,Low,40000014
+Land_646,Sheikh Zayed,2015.0,Yes,Gravel,No,Low,40000015
+Land_647,Sheikh Zayed,2016.0,Yes,Gravel,No,Low,40000016
+Land_648,Sheikh Zayed,2017.0,Yes,Gravel,No,Low,40000017
+Land_649,Sheikh Zayed,2018.0,Yes,Gravel,No,Low,40000018
+Land_650,Sheikh Zayed,2019.0,Yes,Gravel,No,Low,40000019
+Land_651,Sheikh Zayed,2020.0,Yes,Gravel,No,Low,40000020
+Land_652,Sheikh Zayed,8400.0,No,Clay,No,Low,25000000
+Land_653,Sheikh Zayed,8401.0,No,Clay,No,Low,25000001
+Land_654,Sheikh Zayed,8402.0,No,Clay,No,Low,25000002
+Land_655,Sheikh Zayed,8403.0,No,Clay,No,Low,25000003
+Land_656,Sheikh Zayed,8404.0,No,Clay,No,Low,25000004
+Land_657,Sheikh Zayed,8405.0,No,Clay,No,Low,25000005
+Land_658,Sheikh Zayed,8406.0,No,Clay,No,Low,25000006
+Land_659,Sheikh Zayed,8407.0,No,Clay,No,Low,25000007
+Land_660,Sheikh Zayed,8408.0,No,Clay,No,Low,25000008
+Land_661,Sheikh Zayed,8409.0,No,Clay,No,Low,25000009
+Land_662,Sheikh Zayed,8410.0,No,Clay,No,Low,25000010
+Land_663,Sheikh Zayed,8411.0,No,Clay,No,Low,25000011
+Land_664,Sheikh Zayed,8412.0,No,Clay,No,Low,25000012
+Land_665,Sheikh Zayed,8413.0,No,Clay,No,Low,25000013
+Land_666,Sheikh Zayed,8414.0,No,Clay,No,Low,25000014
+Land_667,Sheikh Zayed,8415.0,No,Clay,No,Low,25000015
+Land_668,Sheikh Zayed,8416.0,No,Clay,No,Low,25000016
+Land_669,Sheikh Zayed,8417.0,No,Clay,No,Low,25000017
+Land_670,Sheikh Zayed,8418.0,No,Clay,No,Low,25000018
+Land_671,Sheikh Zayed,8419.0,No,Clay,No,Low,25000019
+Land_672,Sheikh Zayed,8420.0,No,Clay,No,Low,25000020
+Land_673,Sheikh Zayed,1500.0,No,Clay,No,High,12000000
+Land_674,Sheikh Zayed,1501.0,No,Clay,No,High,12000001
+Land_675,Sheikh Zayed,1502.0,No,Clay,No,High,12000002
+Land_676,Sheikh Zayed,1503.0,No,Clay,No,High,12000003
+Land_677,Sheikh Zayed,1504.0,No,Clay,No,High,12000004
+Land_678,Sheikh Zayed,1505.0,No,Clay,No,High,12000005
+Land_679,Sheikh Zayed,1506.0,No,Clay,No,High,12000006
+Land_680,Sheikh Zayed,1507.0,No,Clay,No,High,12000007
+Land_681,Sheikh Zayed,1508.0,No,Clay,No,High,12000008
+Land_682,Sheikh Zayed,1509.0,No,Clay,No,High,12000009
+Land_683,Sheikh Zayed,1510.0,No,Clay,No,High,12000010
+Land_684,Sheikh Zayed,1511.0,No,Clay,No,High,12000011
+Land_685,Sheikh Zayed,1512.0,No,Clay,No,High,12000012
+Land_686,Sheikh Zayed,1513.0,No,Clay,No,High,12000013
+Land_687,Sheikh Zayed,1514.0,No,Clay,No,High,12000014
+Land_688,Sheikh Zayed,1515.0,No,Clay,No,High,12000015
+Land_689,Sheikh Zayed,1516.0,No,Clay,No,High,12000016
+Land_690,Sheikh Zayed,1517.0,No,Clay,No,High,12000017
+Land_691,Sheikh Zayed,1518.0,No,Clay,No,High,12000018
+Land_692,Sheikh Zayed,1519.0,No,Clay,No,High,12000019
+Land_693,Sheikh Zayed,1520.0,No,Clay,No,High,12000020
+Land_694,Sheikh Zayed,27300.0,No,Clay,Yes,High,54000000
+Land_695,Sheikh Zayed,27301.0,No,Clay,Yes,High,54000001
+Land_696,Sheikh Zayed,27302.0,No,Clay,Yes,High,54000002
+Land_697,Sheikh Zayed,27303.0,No,Clay,Yes,High,54000003
+Land_698,Sheikh Zayed,27304.0,No,Clay,Yes,High,54000004
+Land_699,Sheikh Zayed,27305.0,No,Clay,Yes,High,54000005
+Land_700,Sheikh Zayed,27306.0,No,Clay,Yes,High,54000006
+Land_701,Sheikh Zayed,27307.0,No,Clay,Yes,High,54000007
+Land_702,Sheikh Zayed,27308.0,No,Clay,Yes,High,54000008
+Land_703,Sheikh Zayed,27309.0,No,Clay,Yes,High,54000009
+Land_704,Sheikh Zayed,27310.0,No,Clay,Yes,High,54000010
+Land_705,Sheikh Zayed,27311.0,No,Clay,Yes,High,54000011
+Land_706,Sheikh Zayed,27312.0,No,Clay,Yes,High,54000012
+Land_707,Sheikh Zayed,27313.0,No,Clay,Yes,High,54000013
+Land_708,Sheikh Zayed,27314.0,No,Clay,Yes,High,54000014
+Land_709,Sheikh Zayed,27315.0,No,Clay,Yes,High,54000015
+Land_710,Sheikh Zayed,27316.0,No,Clay,Yes,High,54000016
+Land_711,Sheikh Zayed,27317.0,No,Clay,Yes,High,54000017
+Land_712,Sheikh Zayed,27318.0,No,Clay,Yes,High,54000018
+Land_713,Sheikh Zayed,27319.0,No,Clay,Yes,High,54000019
+Land_714,Sheikh Zayed,27320.0,No,Clay,Yes,High,54000020
+Land_715,Sheikh Zayed,16667.0,Yes,Loam,Yes,Low,90000000
+Land_716,Sheikh Zayed,16668.0,Yes,Loam,Yes,Low,90000001
+Land_717,Sheikh Zayed,16669.0,Yes,Loam,Yes,Low,90000002
+Land_718,Sheikh Zayed,16670.0,Yes,Loam,Yes,Low,90000003
+Land_719,Sheikh Zayed,16671.0,Yes,Loam,Yes,Low,90000004
+Land_720,Sheikh Zayed,16672.0,Yes,Loam,Yes,Low,90000005
+Land_721,Sheikh Zayed,16673.0,Yes,Loam,Yes,Low,90000006
+Land_722,Sheikh Zayed,16674.0,Yes,Loam,Yes,Low,90000007
+Land_723,Sheikh Zayed,16675.0,Yes,Loam,Yes,Low,90000008
+Land_724,Sheikh Zayed,16676.0,Yes,Loam,Yes,Low,90000009
+Land_725,Sheikh Zayed,16677.0,Yes,Loam,Yes,Low,90000010
+Land_726,Sheikh Zayed,16678.0,Yes,Loam,Yes,Low,90000011
+Land_727,Sheikh Zayed,16679.0,Yes,Loam,Yes,Low,90000012
+Land_728,Sheikh Zayed,16680.0,Yes,Loam,Yes,Low,90000013
+Land_729,Sheikh Zayed,16681.0,Yes,Loam,Yes,Low,90000014
+Land_730,Sheikh Zayed,16682.0,Yes,Loam,Yes,Low,90000015
+Land_731,Sheikh Zayed,16683.0,Yes,Loam,Yes,Low,90000016
+Land_732,Sheikh Zayed,16684.0,Yes,Loam,Yes,Low,90000017
+Land_733,Sheikh Zayed,16685.0,Yes,Loam,Yes,Low,90000018
+Land_734,Sheikh Zayed,16686.0,Yes,Loam,Yes,Low,90000019
+Land_735,Sheikh Zayed,16687.0,Yes,Loam,Yes,Low,90000020
+Land_736,Sheikh Zayed,11770.0,Yes,Loam,Yes,High,117000000
+Land_737,Sheikh Zayed,11771.0,Yes,Loam,Yes,High,117000001
+Land_738,Sheikh Zayed,11772.0,Yes,Loam,Yes,High,117000002
+Land_739,Sheikh Zayed,11773.0,Yes,Loam,Yes,High,117000003
+Land_740,Sheikh Zayed,11774.0,Yes,Loam,Yes,High,117000004
+Land_741,Sheikh Zayed,11775.0,Yes,Loam,Yes,High,117000005
+Land_742,Sheikh Zayed,11776.0,Yes,Loam,Yes,High,117000006
+Land_743,Sheikh Zayed,11777.0,Yes,Loam,Yes,High,117000007
+Land_744,Sheikh Zayed,11778.0,Yes,Loam,Yes,High,117000008
+Land_745,Sheikh Zayed,11779.0,Yes,Loam,Yes,High,117000009
+Land_746,Sheikh Zayed,11780.0,Yes,Loam,Yes,High,117000010
+Land_747,Sheikh Zayed,11781.0,Yes,Loam,Yes,High,117000011
+Land_748,Sheikh Zayed,11782.0,Yes,Loam,Yes,High,117000012
+Land_749,Sheikh Zayed,11783.0,Yes,Loam,Yes,High,117000013
+Land_750,Sheikh Zayed,11784.0,Yes,Loam,Yes,High,117000014
+Land_751,Sheikh Zayed,11785.0,Yes,Loam,Yes,High,117000015
+Land_752,Sheikh Zayed,11786.0,Yes,Loam,Yes,High,117000016
+Land_753,Sheikh Zayed,11787.0,Yes,Loam,Yes,High,117000017
+Land_754,Sheikh Zayed,11788.0,Yes,Loam,Yes,High,117000018
+Land_755,Sheikh Zayed,11789.0,Yes,Loam,Yes,High,117000019
+Land_756,Sheikh Zayed,11790.0,Yes,Loam,Yes,High,117000020
+Land_757,Sheikh Zayed,84017.0,No,Clay,Yes,High,120000000
+Land_758,Sheikh Zayed,84018.0,No,Clay,Yes,High,120000001
+Land_759,Sheikh Zayed,84019.0,No,Clay,Yes,High,120000002
+Land_760,Sheikh Zayed,84020.0,No,Clay,Yes,High,120000003
+Land_761,Sheikh Zayed,84021.0,No,Clay,Yes,High,120000004
+Land_762,Sheikh Zayed,84022.0,No,Clay,Yes,High,120000005
+Land_763,Sheikh Zayed,84023.0,No,Clay,Yes,High,120000006
+Land_764,Sheikh Zayed,84024.0,No,Clay,Yes,High,120000007
+Land_765,Sheikh Zayed,84025.0,No,Clay,Yes,High,120000008
+Land_766,Sheikh Zayed,84026.0,No,Clay,Yes,High,120000009
+Land_767,Sheikh Zayed,84027.0,No,Clay,Yes,High,120000010
+Land_768,Sheikh Zayed,84028.0,No,Clay,Yes,High,120000011
+Land_769,Sheikh Zayed,84029.0,No,Clay,Yes,High,120000012
+Land_770,Sheikh Zayed,84030.0,No,Clay,Yes,High,120000013
+Land_771,Sheikh Zayed,84031.0,No,Clay,Yes,High,120000014
+Land_772,Sheikh Zayed,84032.0,No,Clay,Yes,High,120000015
+Land_773,Sheikh Zayed,84033.0,No,Clay,Yes,High,120000016
+Land_774,Sheikh Zayed,84034.0,No,Clay,Yes,High,120000017
+Land_775,Sheikh Zayed,84035.0,No,Clay,Yes,High,120000018
+Land_776,Sheikh Zayed,84036.0,No,Clay,Yes,High,120000019
+Land_777,Sheikh Zayed,84037.0,No,Clay,Yes,High,120000020
+Land_778,Sheikh Zayed,16800.0,Yes,Gravel,No,High,135000000
+Land_779,Sheikh Zayed,16801.0,Yes,Gravel,No,High,135000001
+Land_780,Sheikh Zayed,16802.0,Yes,Gravel,No,High,135000002
+Land_781,Sheikh Zayed,16803.0,Yes,Gravel,No,High,135000003
+Land_782,Sheikh Zayed,16804.0,Yes,Gravel,No,High,135000004
+Land_783,Sheikh Zayed,16805.0,Yes,Gravel,No,High,135000005
+Land_784,Sheikh Zayed,16806.0,Yes,Gravel,No,High,135000006
+Land_785,Sheikh Zayed,16807.0,Yes,Gravel,No,High,135000007
+Land_786,Sheikh Zayed,16808.0,Yes,Gravel,No,High,135000008
+Land_787,Sheikh Zayed,16809.0,Yes,Gravel,No,High,135000009
+Land_788,Sheikh Zayed,16810.0,Yes,Gravel,No,High,135000010
+Land_789,Sheikh Zayed,16811.0,Yes,Gravel,No,High,135000011
+Land_790,Sheikh Zayed,16812.0,Yes,Gravel,No,High,135000012
+Land_791,Sheikh Zayed,16813.0,Yes,Gravel,No,High,135000013
+Land_792,Sheikh Zayed,16814.0,Yes,Gravel,No,High,135000014
+Land_793,Sheikh Zayed,16815.0,Yes,Gravel,No,High,135000015
+Land_794,Sheikh Zayed,16816.0,Yes,Gravel,No,High,135000016
+Land_795,Sheikh Zayed,16817.0,Yes,Gravel,No,High,135000017
+Land_796,Sheikh Zayed,16818.0,Yes,Gravel,No,High,135000018
+Land_797,Sheikh Zayed,16819.0,Yes,Gravel,No,High,135000019
+Land_798,Sheikh Zayed,16820.0,Yes,Gravel,No,High,135000020
+Land_799,Sheikh Zayed,21000.0,Yes,Loam,No,Medium,140000000
+Land_800,Sheikh Zayed,21001.0,Yes,Loam,No,Medium,140000001
+Land_801,Sheikh Zayed,21002.0,Yes,Loam,No,Medium,140000002
+Land_802,Sheikh Zayed,21003.0,Yes,Loam,No,Medium,140000003
+Land_803,Sheikh Zayed,21004.0,Yes,Loam,No,Medium,140000004
+Land_804,Sheikh Zayed,21005.0,Yes,Loam,No,Medium,140000005
+Land_805,Sheikh Zayed,21006.0,Yes,Loam,No,Medium,140000006
+Land_806,Sheikh Zayed,21007.0,Yes,Loam,No,Medium,140000007
+Land_807,Sheikh Zayed,21008.0,Yes,Loam,No,Medium,140000008
+Land_808,Sheikh Zayed,21009.0,Yes,Loam,No,Medium,140000009
+Land_809,Sheikh Zayed,21010.0,Yes,Loam,No,Medium,140000010
+Land_810,Sheikh Zayed,21011.0,Yes,Loam,No,Medium,140000011
+Land_811,Sheikh Zayed,21012.0,Yes,Loam,No,Medium,140000012
+Land_812,Sheikh Zayed,21013.0,Yes,Loam,No,Medium,140000013
+Land_813,Sheikh Zayed,21014.0,Yes,Loam,No,Medium,140000014
+Land_814,Sheikh Zayed,21015.0,Yes,Loam,No,Medium,140000015
+Land_815,Sheikh Zayed,21016.0,Yes,Loam,No,Medium,140000016
+Land_816,Sheikh Zayed,21017.0,Yes,Loam,No,Medium,140000017
+Land_817,Sheikh Zayed,21018.0,Yes,Loam,No,Medium,140000018
+Land_818,Sheikh Zayed,21019.0,Yes,Loam,No,Medium,140000019
+Land_819,Sheikh Zayed,21020.0,Yes,Loam,No,Medium,140000020
+Land_820,Sheikh Zayed,740.0,Yes,Loam,No,Medium,37000000
+Land_821,Sheikh Zayed,741.0,Yes,Loam,No,Medium,37000001
+Land_822,Sheikh Zayed,742.0,Yes,Loam,No,Medium,37000002
+Land_823,Sheikh Zayed,743.0,Yes,Loam,No,Medium,37000003
+Land_824,Sheikh Zayed,744.0,Yes,Loam,No,Medium,37000004
+Land_825,Sheikh Zayed,745.0,Yes,Loam,No,Medium,37000005
+Land_826,Sheikh Zayed,746.0,Yes,Loam,No,Medium,37000006
+Land_827,Sheikh Zayed,747.0,Yes,Loam,No,Medium,37000007
+Land_828,Sheikh Zayed,748.0,Yes,Loam,No,Medium,37000008
+Land_829,Sheikh Zayed,749.0,Yes,Loam,No,Medium,37000009
+Land_830,Sheikh Zayed,750.0,Yes,Loam,No,Medium,37000010
+Land_831,Sheikh Zayed,751.0,Yes,Loam,No,Medium,37000011
+Land_832,Sheikh Zayed,752.0,Yes,Loam,No,Medium,37000012
+Land_833,Sheikh Zayed,753.0,Yes,Loam,No,Medium,37000013
+Land_834,Sheikh Zayed,754.0,Yes,Loam,No,Medium,37000014
+Land_835,Sheikh Zayed,755.0,Yes,Loam,No,Medium,37000015
+Land_836,Sheikh Zayed,756.0,Yes,Loam,No,Medium,37000016
+Land_837,Sheikh Zayed,757.0,Yes,Loam,No,Medium,37000017
+Land_838,Sheikh Zayed,758.0,Yes,Loam,No,Medium,37000018
+Land_839,Sheikh Zayed,759.0,Yes,Loam,No,Medium,37000019
+Land_840,Sheikh Zayed,760.0,Yes,Loam,No,Medium,37000020
+Land_841,Fifth settlement,326.0,Yes,Gravel,No,Medium,30750000
+Land_842,Fifth settlement,327.0,Yes,Gravel,No,Medium,30750001
+Land_843,Fifth settlement,328.0,Yes,Gravel,No,Medium,30750002
+Land_844,Fifth settlement,329.0,Yes,Gravel,No,Medium,30750003
+Land_845,Fifth settlement,330.0,Yes,Gravel,No,Medium,30750004
+Land_846,Fifth settlement,331.0,Yes,Gravel,No,Medium,30750005
+Land_847,Fifth settlement,332.0,Yes,Gravel,No,Medium,30750006
+Land_848,Fifth settlement,333.0,Yes,Gravel,No,Medium,30750007
+Land_849,Fifth settlement,334.0,Yes,Gravel,No,Medium,30750008
+Land_850,Fifth settlement,335.0,Yes,Gravel,No,Medium,30750009
+Land_851,Fifth settlement,336.0,Yes,Gravel,No,Medium,30750010
+Land_852,Fifth settlement,337.0,Yes,Gravel,No,Medium,30750011
+Land_853,Fifth settlement,338.0,Yes,Gravel,No,Medium,30750012
+Land_854,Fifth settlement,339.0,Yes,Gravel,No,Medium,30750013
+Land_855,Fifth settlement,340.0,Yes,Gravel,No,Medium,30750014
+Land_856,Fifth settlement,341.0,Yes,Gravel,No,Medium,30750015
+Land_857,Fifth settlement,342.0,Yes,Gravel,No,Medium,30750016
+Land_858,Fifth settlement,343.0,Yes,Gravel,No,Medium,30750017
+Land_859,Fifth settlement,344.0,Yes,Gravel,No,Medium,30750018
+Land_860,Fifth settlement,345.0,Yes,Gravel,No,Medium,30750019
+Land_861,Fifth settlement,346.0,Yes,Gravel,No,Medium,30750020
+Land_862,Fifth settlement,212.0,Yes,Clay,Yes,Low,21000000
+Land_863,Fifth settlement,213.0,Yes,Clay,Yes,Low,21000001
+Land_864,Fifth settlement,214.0,Yes,Clay,Yes,Low,21000002
+Land_865,Fifth settlement,215.0,Yes,Clay,Yes,Low,21000003
+Land_866,Fifth settlement,216.0,Yes,Clay,Yes,Low,21000004
+Land_867,Fifth settlement,217.0,Yes,Clay,Yes,Low,21000005
+Land_868,Fifth settlement,218.0,Yes,Clay,Yes,Low,21000006
+Land_869,Fifth settlement,219.0,Yes,Clay,Yes,Low,21000007
+Land_870,Fifth settlement,220.0,Yes,Clay,Yes,Low,21000008
+Land_871,Fifth settlement,221.0,Yes,Clay,Yes,Low,21000009
+Land_872,Fifth settlement,222.0,Yes,Clay,Yes,Low,21000010
+Land_873,Fifth settlement,223.0,Yes,Clay,Yes,Low,21000011
+Land_874,Fifth settlement,224.0,Yes,Clay,Yes,Low,21000012
+Land_875,Fifth settlement,225.0,Yes,Clay,Yes,Low,21000013
+Land_876,Fifth settlement,226.0,Yes,Clay,Yes,Low,21000014
+Land_877,Fifth settlement,227.0,Yes,Clay,Yes,Low,21000015
+Land_878,Fifth settlement,228.0,Yes,Clay,Yes,Low,21000016
+Land_879,Fifth settlement,229.0,Yes,Clay,Yes,Low,21000017
+Land_880,Fifth settlement,230.0,Yes,Clay,Yes,Low,21000018
+Land_881,Fifth settlement,231.0,Yes,Clay,Yes,Low,21000019
+Land_882,Fifth settlement,232.0,Yes,Clay,Yes,Low,21000020
+Land_883,Fifth settlement,236.0,Yes,Loam,Yes,Low,25000000
+Land_884,Fifth settlement,237.0,Yes,Loam,Yes,Low,25000001
+Land_885,Fifth settlement,238.0,Yes,Loam,Yes,Low,25000002
+Land_886,Fifth settlement,239.0,Yes,Loam,Yes,Low,25000003
+Land_887,Fifth settlement,240.0,Yes,Loam,Yes,Low,25000004
+Land_888,Fifth settlement,241.0,Yes,Loam,Yes,Low,25000005
+Land_889,Fifth settlement,242.0,Yes,Loam,Yes,Low,25000006
+Land_890,Fifth settlement,243.0,Yes,Loam,Yes,Low,25000007
+Land_891,Fifth settlement,244.0,Yes,Loam,Yes,Low,25000008
+Land_892,Fifth settlement,245.0,Yes,Loam,Yes,Low,25000009
+Land_893,Fifth settlement,246.0,Yes,Loam,Yes,Low,25000010
+Land_894,Fifth settlement,247.0,Yes,Loam,Yes,Low,25000011
+Land_895,Fifth settlement,248.0,Yes,Loam,Yes,Low,25000012
+Land_896,Fifth settlement,249.0,Yes,Loam,Yes,Low,25000013
+Land_897,Fifth settlement,250.0,Yes,Loam,Yes,Low,25000014
+Land_898,Fifth settlement,251.0,Yes,Loam,Yes,Low,25000015
+Land_899,Fifth settlement,252.0,Yes,Loam,Yes,Low,25000016
+Land_900,Fifth settlement,253.0,Yes,Loam,Yes,Low,25000017
+Land_901,Fifth settlement,254.0,Yes,Loam,Yes,Low,25000018
+Land_902,Fifth settlement,255.0,Yes,Loam,Yes,Low,25000019
+Land_903,Fifth settlement,256.0,Yes,Loam,Yes,Low,25000020
+Land_904,Fifth settlement,280.0,No,Clay,No,Low,27500000
+Land_905,Fifth settlement,281.0,No,Clay,No,Low,27500001
+Land_906,Fifth settlement,282.0,No,Clay,No,Low,27500002
+Land_907,Fifth settlement,283.0,No,Clay,No,Low,27500003
+Land_908,Fifth settlement,284.0,No,Clay,No,Low,27500004
+Land_909,Fifth settlement,285.0,No,Clay,No,Low,27500005
+Land_910,Fifth settlement,286.0,No,Clay,No,Low,27500006
+Land_911,Fifth settlement,287.0,No,Clay,No,Low,27500007
+Land_912,Fifth settlement,288.0,No,Clay,No,Low,27500008
+Land_913,Fifth settlement,289.0,No,Clay,No,Low,27500009
+Land_914,Fifth settlement,290.0,No,Clay,No,Low,27500010
+Land_915,Fifth settlement,291.0,No,Clay,No,Low,27500011
+Land_916,Fifth settlement,292.0,No,Clay,No,Low,27500012
+Land_917,Fifth settlement,293.0,No,Clay,No,Low,27500013
+Land_918,Fifth settlement,294.0,No,Clay,No,Low,27500014
+Land_919,Fifth settlement,295.0,No,Clay,No,Low,27500015
+Land_920,Fifth settlement,296.0,No,Clay,No,Low,27500016
+Land_921,Fifth settlement,297.0,No,Clay,No,Low,27500017
+Land_922,Fifth settlement,298.0,No,Clay,No,Low,27500018
+Land_923,Fifth settlement,299.0,No,Clay,No,Low,27500019
+Land_924,Fifth settlement,300.0,No,Clay,No,Low,27500020
+Land_925,Fifth settlement,432.0,No,Clay,Yes,Medium,10000000
+Land_926,Fifth settlement,433.0,No,Clay,Yes,Medium,10000001
+Land_927,Fifth settlement,434.0,No,Clay,Yes,Medium,10000002
+Land_928,Fifth settlement,435.0,No,Clay,Yes,Medium,10000003
+Land_929,Fifth settlement,436.0,No,Clay,Yes,Medium,10000004
+Land_930,Fifth settlement,437.0,No,Clay,Yes,Medium,10000005
+Land_931,Fifth settlement,438.0,No,Clay,Yes,Medium,10000006
+Land_932,Fifth settlement,439.0,No,Clay,Yes,Medium,10000007
+Land_933,Fifth settlement,440.0,No,Clay,Yes,Medium,10000008
+Land_934,Fifth settlement,441.0,No,Clay,Yes,Medium,10000009
+Land_935,Fifth settlement,442.0,No,Clay,Yes,Medium,10000010
+Land_936,Fifth settlement,443.0,No,Clay,Yes,Medium,10000011
+Land_937,Fifth settlement,444.0,No,Clay,Yes,Medium,10000012
+Land_938,Fifth settlement,445.0,No,Clay,Yes,Medium,10000013
+Land_939,Fifth settlement,446.0,No,Clay,Yes,Medium,10000014
+Land_940,Fifth settlement,447.0,No,Clay,Yes,Medium,10000015
+Land_941,Fifth settlement,448.0,No,Clay,Yes,Medium,10000016
+Land_942,Fifth settlement,449.0,No,Clay,Yes,Medium,10000017
+Land_943,Fifth settlement,450.0,No,Clay,Yes,Medium,10000018
+Land_944,Fifth settlement,451.0,No,Clay,Yes,Medium,10000019
+Land_945,Fifth settlement,452.0,No,Clay,Yes,Medium,10000020
+Land_946,Fifth settlement,215.0,No,Clay,No,Medium,9990000
+Land_947,Fifth settlement,216.0,No,Clay,No,Medium,9990001
+Land_948,Fifth settlement,217.0,No,Clay,No,Medium,9990002
+Land_949,Fifth settlement,218.0,No,Clay,No,Medium,9990003
+Land_950,Fifth settlement,219.0,No,Clay,No,Medium,9990004
+Land_951,Fifth settlement,220.0,No,Clay,No,Medium,9990005
+Land_952,Fifth settlement,221.0,No,Clay,No,Medium,9990006
+Land_953,Fifth settlement,222.0,No,Clay,No,Medium,9990007
+Land_954,Fifth settlement,223.0,No,Clay,No,Medium,9990008
+Land_955,Fifth settlement,224.0,No,Clay,No,Medium,9990009
+Land_956,Fifth settlement,225.0,No,Clay,No,Medium,9990010
+Land_957,Fifth settlement,226.0,No,Clay,No,Medium,9990011
+Land_958,Fifth settlement,227.0,No,Clay,No,Medium,9990012
+Land_959,Fifth settlement,228.0,No,Clay,No,Medium,9990013
+Land_960,Fifth settlement,229.0,No,Clay,No,Medium,9990014
+Land_961,Fifth settlement,230.0,No,Clay,No,Medium,9990015
+Land_962,Fifth settlement,231.0,No,Clay,No,Medium,9990016
+Land_963,Fifth settlement,232.0,No,Clay,No,Medium,9990017
+Land_964,Fifth settlement,233.0,No,Clay,No,Medium,9990018
+Land_965,Fifth settlement,234.0,No,Clay,No,Medium,9990019
+Land_966,Fifth settlement,235.0,No,Clay,No,Medium,9990020
+Land_967,Fifth settlement,259.0,Yes,Gravel,No,Medium,8750000
+Land_968,Fifth settlement,260.0,Yes,Gravel,No,Medium,8750001
+Land_969,Fifth settlement,261.0,Yes,Gravel,No,Medium,8750002
+Land_970,Fifth settlement,262.0,Yes,Gravel,No,Medium,8750003
+Land_971,Fifth settlement,263.0,Yes,Gravel,No,Medium,8750004
+Land_972,Fifth settlement,264.0,Yes,Gravel,No,Medium,8750005
+Land_973,Fifth settlement,265.0,Yes,Gravel,No,Medium,8750006
+Land_974,Fifth settlement,266.0,Yes,Gravel,No,Medium,8750007
+Land_975,Fifth settlement,267.0,Yes,Gravel,No,Medium,8750008
+Land_976,Fifth settlement,268.0,Yes,Gravel,No,Medium,8750009
+Land_977,Fifth settlement,269.0,Yes,Gravel,No,Medium,8750010
+Land_978,Fifth settlement,270.0,Yes,Gravel,No,Medium,8750011
+Land_979,Fifth settlement,271.0,Yes,Gravel,No,Medium,8750012
+Land_980,Fifth settlement,272.0,Yes,Gravel,No,Medium,8750013
+Land_981,Fifth settlement,273.0,Yes,Gravel,No,Medium,8750014
+Land_982,Fifth settlement,274.0,Yes,Gravel,No,Medium,8750015
+Land_983,Fifth settlement,275.0,Yes,Gravel,No,Medium,8750016
+Land_984,Fifth settlement,276.0,Yes,Gravel,No,Medium,8750017
+Land_985,Fifth settlement,277.0,Yes,Gravel,No,Medium,8750018
+Land_986,Fifth settlement,278.0,Yes,Gravel,No,Medium,8750019
+Land_987,Fifth settlement,279.0,Yes,Gravel,No,Medium,8750020
+Land_988,Fifth settlement,244.0,Yes,Gravel,Yes,Low,55000000
+Land_989,Fifth settlement,245.0,Yes,Gravel,Yes,Low,55000001
+Land_990,Fifth settlement,246.0,Yes,Gravel,Yes,Low,55000002
+Land_991,Fifth settlement,247.0,Yes,Gravel,Yes,Low,55000003
+Land_992,Fifth settlement,248.0,Yes,Gravel,Yes,Low,55000004
+Land_993,Fifth settlement,249.0,Yes,Gravel,Yes,Low,55000005
+Land_994,Fifth settlement,250.0,Yes,Gravel,Yes,Low,55000006
+Land_995,Fifth settlement,251.0,Yes,Gravel,Yes,Low,55000007
+Land_996,Fifth settlement,252.0,Yes,Gravel,Yes,Low,55000008
+Land_997,Fifth settlement,253.0,Yes,Gravel,Yes,Low,55000009
+Land_998,Fifth settlement,254.0,Yes,Gravel,Yes,Low,55000010
+Land_999,Fifth settlement,255.0,Yes,Gravel,Yes,Low,55000011
+Land_1000,Fifth settlement,256.0,Yes,Gravel,Yes,Low,55000012
+Land_1001,Fifth settlement,257.0,Yes,Gravel,Yes,Low,55000013
+Land_1002,Fifth settlement,258.0,Yes,Gravel,Yes,Low,55000014
+Land_1003,Fifth settlement,259.0,Yes,Gravel,Yes,Low,55000015
+Land_1004,Fifth settlement,260.0,Yes,Gravel,Yes,Low,55000016
+Land_1005,Fifth settlement,261.0,Yes,Gravel,Yes,Low,55000017
+Land_1006,Fifth settlement,262.0,Yes,Gravel,Yes,Low,55000018
+Land_1007,Fifth settlement,263.0,Yes,Gravel,Yes,Low,55000019
+Land_1008,Fifth settlement,264.0,Yes,Gravel,Yes,Low,55000020
+Land_1009,Fifth settlement,160.0,No,Clay,No,Low,14000000
+Land_1010,Fifth settlement,161.0,No,Clay,No,Low,14000001
+Land_1011,Fifth settlement,162.0,No,Clay,No,Low,14000002
+Land_1012,Fifth settlement,163.0,No,Clay,No,Low,14000003
+Land_1013,Fifth settlement,164.0,No,Clay,No,Low,14000004
+Land_1014,Fifth settlement,165.0,No,Clay,No,Low,14000005
+Land_1015,Fifth settlement,166.0,No,Clay,No,Low,14000006
+Land_1016,Fifth settlement,167.0,No,Clay,No,Low,14000007
+Land_1017,Fifth settlement,168.0,No,Clay,No,Low,14000008
+Land_1018,Fifth settlement,169.0,No,Clay,No,Low,14000009
+Land_1019,Fifth settlement,170.0,No,Clay,No,Low,14000010
+Land_1020,Fifth settlement,171.0,No,Clay,No,Low,14000011
+Land_1021,Fifth settlement,172.0,No,Clay,No,Low,14000012
+Land_1022,Fifth settlement,173.0,No,Clay,No,Low,14000013
+Land_1023,Fifth settlement,174.0,No,Clay,No,Low,14000014
+Land_1024,Fifth settlement,175.0,No,Clay,No,Low,14000015
+Land_1025,Fifth settlement,176.0,No,Clay,No,Low,14000016
+Land_1026,Fifth settlement,177.0,No,Clay,No,Low,14000017
+Land_1027,Fifth settlement,178.0,No,Clay,No,Low,14000018
+Land_1028,Fifth settlement,179.0,No,Clay,No,Low,14000019
+Land_1029,Fifth settlement,180.0,No,Clay,No,Low,14000020
+Land_1030,Fifth settlement,700.0,Yes,Loam,Yes,Medium,55000000
+Land_1031,Fifth settlement,701.0,Yes,Loam,Yes,Medium,55000001
+Land_1032,Fifth settlement,702.0,Yes,Loam,Yes,Medium,55000002
+Land_1033,Fifth settlement,703.0,Yes,Loam,Yes,Medium,55000003
+Land_1034,Fifth settlement,704.0,Yes,Loam,Yes,Medium,55000004
+Land_1035,Fifth settlement,705.0,Yes,Loam,Yes,Medium,55000005
+Land_1036,Fifth settlement,706.0,Yes,Loam,Yes,Medium,55000006
+Land_1037,Fifth settlement,707.0,Yes,Loam,Yes,Medium,55000007
+Land_1038,Fifth settlement,708.0,Yes,Loam,Yes,Medium,55000008
+Land_1039,Fifth settlement,709.0,Yes,Loam,Yes,Medium,55000009
+Land_1040,Fifth settlement,710.0,Yes,Loam,Yes,Medium,55000010
+Land_1041,Fifth settlement,711.0,Yes,Loam,Yes,Medium,55000011
+Land_1042,Fifth settlement,712.0,Yes,Loam,Yes,Medium,55000012
+Land_1043,Fifth settlement,713.0,Yes,Loam,Yes,Medium,55000013
+Land_1044,Fifth settlement,714.0,Yes,Loam,Yes,Medium,55000014
+Land_1045,Fifth settlement,715.0,Yes,Loam,Yes,Medium,55000015
+Land_1046,Fifth settlement,716.0,Yes,Loam,Yes,Medium,55000016
+Land_1047,Fifth settlement,717.0,Yes,Loam,Yes,Medium,55000017
+Land_1048,Fifth settlement,718.0,Yes,Loam,Yes,Medium,55000018
+Land_1049,Fifth settlement,719.0,Yes,Loam,Yes,Medium,55000019
+Land_1050,Fifth settlement,720.0,Yes,Loam,Yes,Medium,55000020
+Land_1051,Fifth settlement,370.0,Yes,Loam,No,High,80000000
+Land_1052,Fifth settlement,371.0,Yes,Loam,No,High,80000001
+Land_1053,Fifth settlement,372.0,Yes,Loam,No,High,80000002
+Land_1054,Fifth settlement,373.0,Yes,Loam,No,High,80000003
+Land_1055,Fifth settlement,374.0,Yes,Loam,No,High,80000004
+Land_1056,Fifth settlement,375.0,Yes,Loam,No,High,80000005
+Land_1057,Fifth settlement,376.0,Yes,Loam,No,High,80000006
+Land_1058,Fifth settlement,377.0,Yes,Loam,No,High,80000007
+Land_1059,Fifth settlement,378.0,Yes,Loam,No,High,80000008
+Land_1060,Fifth settlement,379.0,Yes,Loam,No,High,80000009
+Land_1061,Fifth settlement,380.0,Yes,Loam,No,High,80000010
+Land_1062,Fifth settlement,381.0,Yes,Loam,No,High,80000011
+Land_1063,Fifth settlement,382.0,Yes,Loam,No,High,80000012
+Land_1064,Fifth settlement,383.0,Yes,Loam,No,High,80000013
+Land_1065,Fifth settlement,384.0,Yes,Loam,No,High,80000014
+Land_1066,Fifth settlement,385.0,Yes,Loam,No,High,80000015
+Land_1067,Fifth settlement,386.0,Yes,Loam,No,High,80000016
+Land_1068,Fifth settlement,387.0,Yes,Loam,No,High,80000017
+Land_1069,Fifth settlement,388.0,Yes,Loam,No,High,80000018
+Land_1070,Fifth settlement,389.0,Yes,Loam,No,High,80000019
+Land_1071,Fifth settlement,390.0,Yes,Loam,No,High,80000020
+Land_1072,Fifth settlement,160.0,No,Clay,Yes,High,11600000
+Land_1073,Fifth settlement,161.0,No,Clay,Yes,High,11600001
+Land_1074,Fifth settlement,162.0,No,Clay,Yes,High,11600002
+Land_1075,Fifth settlement,163.0,No,Clay,Yes,High,11600003
+Land_1076,Fifth settlement,164.0,No,Clay,Yes,High,11600004
+Land_1077,Fifth settlement,165.0,No,Clay,Yes,High,11600005
+Land_1078,Fifth settlement,166.0,No,Clay,Yes,High,11600006
+Land_1079,Fifth settlement,167.0,No,Clay,Yes,High,11600007
+Land_1080,Fifth settlement,168.0,No,Clay,Yes,High,11600008
+Land_1081,Fifth settlement,169.0,No,Clay,Yes,High,11600009
+Land_1082,Fifth settlement,170.0,No,Clay,Yes,High,11600010
+Land_1083,Fifth settlement,171.0,No,Clay,Yes,High,11600011
+Land_1084,Fifth settlement,172.0,No,Clay,Yes,High,11600012
+Land_1085,Fifth settlement,173.0,No,Clay,Yes,High,11600013
+Land_1086,Fifth settlement,174.0,No,Clay,Yes,High,11600014
+Land_1087,Fifth settlement,175.0,No,Clay,Yes,High,11600015
+Land_1088,Fifth settlement,176.0,No,Clay,Yes,High,11600016
+Land_1089,Fifth settlement,177.0,No,Clay,Yes,High,11600017
+Land_1090,Fifth settlement,178.0,No,Clay,Yes,High,11600018
+Land_1091,Fifth settlement,179.0,No,Clay,Yes,High,11600019
+Land_1092,Fifth settlement,180.0,No,Clay,Yes,High,11600020
+Land_1093,Fifth settlement,143.0,No,Clay,Yes,Low,8700000
+Land_1094,Fifth settlement,144.0,No,Clay,Yes,Low,8700001
+Land_1095,Fifth settlement,145.0,No,Clay,Yes,Low,8700002
+Land_1096,Fifth settlement,146.0,No,Clay,Yes,Low,8700003
+Land_1097,Fifth settlement,147.0,No,Clay,Yes,Low,8700004
+Land_1098,Fifth settlement,148.0,No,Clay,Yes,Low,8700005
+Land_1099,Fifth settlement,149.0,No,Clay,Yes,Low,8700006
+Land_1100,Fifth settlement,150.0,No,Clay,Yes,Low,8700007
+Land_1101,Fifth settlement,151.0,No,Clay,Yes,Low,8700008
+Land_1102,Fifth settlement,152.0,No,Clay,Yes,Low,8700009
+Land_1103,Fifth settlement,153.0,No,Clay,Yes,Low,8700010
+Land_1104,Fifth settlement,154.0,No,Clay,Yes,Low,8700011
+Land_1105,Fifth settlement,155.0,No,Clay,Yes,Low,8700012
+Land_1106,Fifth settlement,156.0,No,Clay,Yes,Low,8700013
+Land_1107,Fifth settlement,157.0,No,Clay,Yes,Low,8700014
+Land_1108,Fifth settlement,158.0,No,Clay,Yes,Low,8700015
+Land_1109,Fifth settlement,159.0,No,Clay,Yes,Low,8700016
+Land_1110,Fifth settlement,160.0,No,Clay,Yes,Low,8700017
+Land_1111,Fifth settlement,161.0,No,Clay,Yes,Low,8700018
+Land_1112,Fifth settlement,162.0,No,Clay,Yes,Low,8700019
+Land_1113,Fifth settlement,163.0,No,Clay,Yes,Low,8700020
+Land_1114,Fifth settlement,255.0,No,Clay,Yes,Low,6500000
+Land_1115,Fifth settlement,256.0,No,Clay,Yes,Low,6500001
+Land_1116,Fifth settlement,257.0,No,Clay,Yes,Low,6500002
+Land_1117,Fifth settlement,258.0,No,Clay,Yes,Low,6500003
+Land_1118,Fifth settlement,259.0,No,Clay,Yes,Low,6500004
+Land_1119,Fifth settlement,260.0,No,Clay,Yes,Low,6500005
+Land_1120,Fifth settlement,261.0,No,Clay,Yes,Low,6500006
+Land_1121,Fifth settlement,262.0,No,Clay,Yes,Low,6500007
+Land_1122,Fifth settlement,263.0,No,Clay,Yes,Low,6500008
+Land_1123,Fifth settlement,264.0,No,Clay,Yes,Low,6500009
+Land_1124,Fifth settlement,265.0,No,Clay,Yes,Low,6500010
+Land_1125,Fifth settlement,266.0,No,Clay,Yes,Low,6500011
+Land_1126,Fifth settlement,267.0,No,Clay,Yes,Low,6500012
+Land_1127,Fifth settlement,268.0,No,Clay,Yes,Low,6500013
+Land_1128,Fifth settlement,269.0,No,Clay,Yes,Low,6500014
+Land_1129,Fifth settlement,270.0,No,Clay,Yes,Low,6500015
+Land_1130,Fifth settlement,271.0,No,Clay,Yes,Low,6500016
+Land_1131,Fifth settlement,272.0,No,Clay,Yes,Low,6500017
+Land_1132,Fifth settlement,273.0,No,Clay,Yes,Low,6500018
+Land_1133,Fifth settlement,274.0,No,Clay,Yes,Low,6500019
+Land_1134,Fifth settlement,275.0,No,Clay,Yes,Low,6500020
+Land_1135,Fifth settlement,758.0,Yes,Loam,No,Medium,65000000
+Land_1136,Fifth settlement,759.0,Yes,Loam,No,Medium,65000001
+Land_1137,Fifth settlement,760.0,Yes,Loam,No,Medium,65000002
+Land_1138,Fifth settlement,761.0,Yes,Loam,No,Medium,65000003
+Land_1139,Fifth settlement,762.0,Yes,Loam,No,Medium,65000004
+Land_1140,Fifth settlement,763.0,Yes,Loam,No,Medium,65000005
+Land_1141,Fifth settlement,764.0,Yes,Loam,No,Medium,65000006
+Land_1142,Fifth settlement,765.0,Yes,Loam,No,Medium,65000007
+Land_1143,Fifth settlement,766.0,Yes,Loam,No,Medium,65000008
+Land_1144,Fifth settlement,767.0,Yes,Loam,No,Medium,65000009
+Land_1145,Fifth settlement,768.0,Yes,Loam,No,Medium,65000010
+Land_1146,Fifth settlement,769.0,Yes,Loam,No,Medium,65000011
+Land_1147,Fifth settlement,770.0,Yes,Loam,No,Medium,65000012
+Land_1148,Fifth settlement,771.0,Yes,Loam,No,Medium,65000013
+Land_1149,Fifth settlement,772.0,Yes,Loam,No,Medium,65000014
+Land_1150,Fifth settlement,773.0,Yes,Loam,No,Medium,65000015
+Land_1151,Fifth settlement,774.0,Yes,Loam,No,Medium,65000016
+Land_1152,Fifth settlement,775.0,Yes,Loam,No,Medium,65000017
+Land_1153,Fifth settlement,776.0,Yes,Loam,No,Medium,65000018
+Land_1154,Fifth settlement,777.0,Yes,Loam,No,Medium,65000019
+Land_1155,Fifth settlement,778.0,Yes,Loam,No,Medium,65000020
+Land_1156,Fifth settlement,230.0,No,Clay,No,Medium,12000000
+Land_1157,Fifth settlement,231.0,No,Clay,No,Medium,12000001
+Land_1158,Fifth settlement,232.0,No,Clay,No,Medium,12000002
+Land_1159,Fifth settlement,233.0,No,Clay,No,Medium,12000003
+Land_1160,Fifth settlement,234.0,No,Clay,No,Medium,12000004
+Land_1161,Fifth settlement,235.0,No,Clay,No,Medium,12000005
+Land_1162,Fifth settlement,236.0,No,Clay,No,Medium,12000006
+Land_1163,Fifth settlement,237.0,No,Clay,No,Medium,12000007
+Land_1164,Fifth settlement,238.0,No,Clay,No,Medium,12000008
+Land_1165,Fifth settlement,239.0,No,Clay,No,Medium,12000009
+Land_1166,Fifth settlement,240.0,No,Clay,No,Medium,12000010
+Land_1167,Fifth settlement,241.0,No,Clay,No,Medium,12000011
+Land_1168,Fifth settlement,242.0,No,Clay,No,Medium,12000012
+Land_1169,Fifth settlement,243.0,No,Clay,No,Medium,12000013
+Land_1170,Fifth settlement,244.0,No,Clay,No,Medium,12000014
+Land_1171,Fifth settlement,245.0,No,Clay,No,Medium,12000015
+Land_1172,Fifth settlement,246.0,No,Clay,No,Medium,12000016
+Land_1173,Fifth settlement,247.0,No,Clay,No,Medium,12000017
+Land_1174,Fifth settlement,248.0,No,Clay,No,Medium,12000018
+Land_1175,Fifth settlement,249.0,No,Clay,No,Medium,12000019
+Land_1176,Fifth settlement,250.0,No,Clay,No,Medium,12000020
+Land_1177,Fifth settlement,212.0,No,Loam,Yes,Medium,8220000
+Land_1178,Fifth settlement,213.0,No,Loam,Yes,Medium,8220001
+Land_1179,Fifth settlement,214.0,No,Loam,Yes,Medium,8220002
+Land_1180,Fifth settlement,215.0,No,Loam,Yes,Medium,8220003
+Land_1181,Fifth settlement,216.0,No,Loam,Yes,Medium,8220004
+Land_1182,Fifth settlement,217.0,No,Loam,Yes,Medium,8220005
+Land_1183,Fifth settlement,218.0,No,Loam,Yes,Medium,8220006
+Land_1184,Fifth settlement,219.0,No,Loam,Yes,Medium,8220007
+Land_1185,Fifth settlement,220.0,No,Loam,Yes,Medium,8220008
+Land_1186,Fifth settlement,221.0,No,Loam,Yes,Medium,8220009
+Land_1187,Fifth settlement,222.0,No,Loam,Yes,Medium,8220010
+Land_1188,Fifth settlement,223.0,No,Loam,Yes,Medium,8220011
+Land_1189,Fifth settlement,224.0,No,Loam,Yes,Medium,8220012
+Land_1190,Fifth settlement,225.0,No,Loam,Yes,Medium,8220013
+Land_1191,Fifth settlement,226.0,No,Loam,Yes,Medium,8220014
+Land_1192,Fifth settlement,227.0,No,Loam,Yes,Medium,8220015
+Land_1193,Fifth settlement,228.0,No,Loam,Yes,Medium,8220016
+Land_1194,Fifth settlement,229.0,No,Loam,Yes,Medium,8220017
+Land_1195,Fifth settlement,230.0,No,Loam,Yes,Medium,8220018
+Land_1196,Fifth settlement,231.0,No,Loam,Yes,Medium,8220019
+Land_1197,Fifth settlement,232.0,No,Loam,Yes,Medium,8220020
+Land_1198,Fifth settlement,161.0,No,Gravel,Yes,Low,10560000
+Land_1199,Fifth settlement,162.0,No,Gravel,Yes,Low,10560001
+Land_1200,Fifth settlement,163.0,No,Gravel,Yes,Low,10560002
+Land_1201,Fifth settlement,164.0,No,Gravel,Yes,Low,10560003
+Land_1202,Fifth settlement,165.0,No,Gravel,Yes,Low,10560004
+Land_1203,Fifth settlement,166.0,No,Gravel,Yes,Low,10560005
+Land_1204,Fifth settlement,167.0,No,Gravel,Yes,Low,10560006
+Land_1205,Fifth settlement,168.0,No,Gravel,Yes,Low,10560007
+Land_1206,Fifth settlement,169.0,No,Gravel,Yes,Low,10560008
+Land_1207,Fifth settlement,170.0,No,Gravel,Yes,Low,10560009
+Land_1208,Fifth settlement,171.0,No,Gravel,Yes,Low,10560010
+Land_1209,Fifth settlement,172.0,No,Gravel,Yes,Low,10560011
+Land_1210,Fifth settlement,173.0,No,Gravel,Yes,Low,10560012
+Land_1211,Fifth settlement,174.0,No,Gravel,Yes,Low,10560013
+Land_1212,Fifth settlement,175.0,No,Gravel,Yes,Low,10560014
+Land_1213,Fifth settlement,176.0,No,Gravel,Yes,Low,10560015
+Land_1214,Fifth settlement,177.0,No,Gravel,Yes,Low,10560016
+Land_1215,Fifth settlement,178.0,No,Gravel,Yes,Low,10560017
+Land_1216,Fifth settlement,179.0,No,Gravel,Yes,Low,10560018
+Land_1217,Fifth settlement,180.0,No,Gravel,Yes,Low,10560019
+Land_1218,Fifth settlement,181.0,No,Gravel,Yes,Low,10560020
+Land_1219,Fifth settlement,302.0,No,Clay,Yes,High,10400000
+Land_1220,Fifth settlement,303.0,No,Clay,Yes,High,10400001
+Land_1221,Fifth settlement,304.0,No,Clay,Yes,High,10400002
+Land_1222,Fifth settlement,305.0,No,Clay,Yes,High,10400003
+Land_1223,Fifth settlement,306.0,No,Clay,Yes,High,10400004
+Land_1224,Fifth settlement,307.0,No,Clay,Yes,High,10400005
+Land_1225,Fifth settlement,308.0,No,Clay,Yes,High,10400006
+Land_1226,Fifth settlement,309.0,No,Clay,Yes,High,10400007
+Land_1227,Fifth settlement,310.0,No,Clay,Yes,High,10400008
+Land_1228,Fifth settlement,311.0,No,Clay,Yes,High,10400009
+Land_1229,Fifth settlement,312.0,No,Clay,Yes,High,10400010
+Land_1230,Fifth settlement,313.0,No,Clay,Yes,High,10400011
+Land_1231,Fifth settlement,314.0,No,Clay,Yes,High,10400012
+Land_1232,Fifth settlement,315.0,No,Clay,Yes,High,10400013
+Land_1233,Fifth settlement,316.0,No,Clay,Yes,High,10400014
+Land_1234,Fifth settlement,317.0,No,Clay,Yes,High,10400015
+Land_1235,Fifth settlement,318.0,No,Clay,Yes,High,10400016
+Land_1236,Fifth settlement,319.0,No,Clay,Yes,High,10400017
+Land_1237,Fifth settlement,320.0,No,Clay,Yes,High,10400018
+Land_1238,Fifth settlement,321.0,No,Clay,Yes,High,10400019
+Land_1239,Fifth settlement,322.0,No,Clay,Yes,High,10400020
+Land_1240,Fifth settlement,287.0,No,Gravel,No,Medium,8700000
+Land_1241,Fifth settlement,288.0,No,Gravel,No,Medium,8700001
+Land_1242,Fifth settlement,289.0,No,Gravel,No,Medium,8700002
+Land_1243,Fifth settlement,290.0,No,Gravel,No,Medium,8700003
+Land_1244,Fifth settlement,291.0,No,Gravel,No,Medium,8700004
+Land_1245,Fifth settlement,292.0,No,Gravel,No,Medium,8700005
+Land_1246,Fifth settlement,293.0,No,Gravel,No,Medium,8700006
+Land_1247,Fifth settlement,294.0,No,Gravel,No,Medium,8700007
+Land_1248,Fifth settlement,295.0,No,Gravel,No,Medium,8700008
+Land_1249,Fifth settlement,296.0,No,Gravel,No,Medium,8700009
+Land_1250,Fifth settlement,297.0,No,Gravel,No,Medium,8700010
+Land_1251,Fifth settlement,298.0,No,Gravel,No,Medium,8700011
+Land_1252,Fifth settlement,299.0,No,Gravel,No,Medium,8700012
+Land_1253,Fifth settlement,300.0,No,Gravel,No,Medium,8700013
+Land_1254,Fifth settlement,301.0,No,Gravel,No,Medium,8700014
+Land_1255,Fifth settlement,302.0,No,Gravel,No,Medium,8700015
+Land_1256,Fifth settlement,303.0,No,Gravel,No,Medium,8700016
+Land_1257,Fifth settlement,304.0,No,Gravel,No,Medium,8700017
+Land_1258,Fifth settlement,305.0,No,Gravel,No,Medium,8700018
+Land_1259,Fifth settlement,306.0,No,Gravel,No,Medium,8700019
+Land_1260,Fifth settlement,307.0,No,Gravel,No,Medium,8700020
+Land_1261,6 of october,650.0,No,Loam,No,Medium,3500000
+Land_1262,6 of october,651.0,No,Loam,No,Medium,3500001
+Land_1263,6 of october,652.0,No,Loam,No,Medium,3500002
+Land_1264,6 of october,653.0,No,Loam,No,Medium,3500003
+Land_1265,6 of october,654.0,No,Loam,No,Medium,3500004
+Land_1266,6 of october,655.0,No,Loam,No,Medium,3500005
+Land_1267,6 of october,656.0,No,Loam,No,Medium,3500006
+Land_1268,6 of october,657.0,No,Loam,No,Medium,3500007
+Land_1269,6 of october,658.0,No,Loam,No,Medium,3500008
+Land_1270,6 of october,659.0,No,Loam,No,Medium,3500009
+Land_1271,6 of october,660.0,No,Loam,No,Medium,3500010
+Land_1272,6 of october,661.0,No,Loam,No,Medium,3500011
+Land_1273,6 of october,662.0,No,Loam,No,Medium,3500012
+Land_1274,6 of october,663.0,No,Loam,No,Medium,3500013
+Land_1275,6 of october,664.0,No,Loam,No,Medium,3500014
+Land_1276,6 of october,665.0,No,Loam,No,Medium,3500015
+Land_1277,6 of october,666.0,No,Loam,No,Medium,3500016
+Land_1278,6 of october,667.0,No,Loam,No,Medium,3500017
+Land_1279,6 of october,668.0,No,Loam,No,Medium,3500018
+Land_1280,6 of october,669.0,No,Loam,No,Medium,3500019
+Land_1281,6 of october,670.0,No,Loam,No,Medium,3500020
+Land_1282,6 of october,2803.0,No,Loam,No,Low,4600000
+Land_1283,6 of october,2804.0,No,Loam,No,Low,4600001
+Land_1284,6 of october,2805.0,No,Loam,No,Low,4600002
+Land_1285,6 of october,2806.0,No,Loam,No,Low,4600003
+Land_1286,6 of october,2807.0,No,Loam,No,Low,4600004
+Land_1287,6 of october,2808.0,No,Loam,No,Low,4600005
+Land_1288,6 of october,2809.0,No,Loam,No,Low,4600006
+Land_1289,6 of october,2810.0,No,Loam,No,Low,4600007
+Land_1290,6 of october,2811.0,No,Loam,No,Low,4600008
+Land_1291,6 of october,2812.0,No,Loam,No,Low,4600009
+Land_1292,6 of october,2813.0,No,Loam,No,Low,4600010
+Land_1293,6 of october,2814.0,No,Loam,No,Low,4600011
+Land_1294,6 of october,2815.0,No,Loam,No,Low,4600012
+Land_1295,6 of october,2816.0,No,Loam,No,Low,4600013
+Land_1296,6 of october,2817.0,No,Loam,No,Low,4600014
+Land_1297,6 of october,2818.0,No,Loam,No,Low,4600015
+Land_1298,6 of october,2819.0,No,Loam,No,Low,4600016
+Land_1299,6 of october,2820.0,No,Loam,No,Low,4600017
+Land_1300,6 of october,2821.0,No,Loam,No,Low,4600018
+Land_1301,6 of october,2822.0,No,Loam,No,Low,4600019
+Land_1302,6 of october,2823.0,No,Loam,No,Low,4600020
+Land_1303,6 of october,500.0,Yes,Gravel,No,High,15000000
+Land_1304,6 of october,501.0,Yes,Gravel,No,High,15000001
+Land_1305,6 of october,502.0,Yes,Gravel,No,High,15000002
+Land_1306,6 of october,503.0,Yes,Gravel,No,High,15000003
+Land_1307,6 of october,504.0,Yes,Gravel,No,High,15000004
+Land_1308,6 of october,505.0,Yes,Gravel,No,High,15000005
+Land_1309,6 of october,506.0,Yes,Gravel,No,High,15000006
+Land_1310,6 of october,507.0,Yes,Gravel,No,High,15000007
+Land_1311,6 of october,508.0,Yes,Gravel,No,High,15000008
+Land_1312,6 of october,509.0,Yes,Gravel,No,High,15000009
+Land_1313,6 of october,510.0,Yes,Gravel,No,High,15000010
+Land_1314,6 of october,511.0,Yes,Gravel,No,High,15000011
+Land_1315,6 of october,512.0,Yes,Gravel,No,High,15000012
+Land_1316,6 of october,513.0,Yes,Gravel,No,High,15000013
+Land_1317,6 of october,514.0,Yes,Gravel,No,High,15000014
+Land_1318,6 of october,515.0,Yes,Gravel,No,High,15000015
+Land_1319,6 of october,516.0,Yes,Gravel,No,High,15000016
+Land_1320,6 of october,517.0,Yes,Gravel,No,High,15000017
+Land_1321,6 of october,518.0,Yes,Gravel,No,High,15000018
+Land_1322,6 of october,519.0,Yes,Gravel,No,High,15000019
+Land_1323,6 of october,520.0,Yes,Gravel,No,High,15000020
+Land_1324,6 of october,622.0,No,Clay,No,Medium,2900000
+Land_1325,6 of october,623.0,No,Clay,No,Medium,2900001
+Land_1326,6 of october,624.0,No,Clay,No,Medium,2900002
+Land_1327,6 of october,625.0,No,Clay,No,Medium,2900003
+Land_1328,6 of october,626.0,No,Clay,No,Medium,2900004
+Land_1329,6 of october,627.0,No,Clay,No,Medium,2900005
+Land_1330,6 of october,628.0,No,Clay,No,Medium,2900006
+Land_1331,6 of october,629.0,No,Clay,No,Medium,2900007
+Land_1332,6 of october,630.0,No,Clay,No,Medium,2900008
+Land_1333,6 of october,631.0,No,Clay,No,Medium,2900009
+Land_1334,6 of october,632.0,No,Clay,No,Medium,2900010
+Land_1335,6 of october,633.0,No,Clay,No,Medium,2900011
+Land_1336,6 of october,634.0,No,Clay,No,Medium,2900012
+Land_1337,6 of october,635.0,No,Clay,No,Medium,2900013
+Land_1338,6 of october,636.0,No,Clay,No,Medium,2900014
+Land_1339,6 of october,637.0,No,Clay,No,Medium,2900015
+Land_1340,6 of october,638.0,No,Clay,No,Medium,2900016
+Land_1341,6 of october,639.0,No,Clay,No,Medium,2900017
+Land_1342,6 of october,640.0,No,Clay,No,Medium,2900018
+Land_1343,6 of october,641.0,No,Clay,No,Medium,2900019
+Land_1344,6 of october,642.0,No,Clay,No,Medium,2900020
+Land_1345,6 of october,372.0,Yes,Gravel,No,Low,7950000
+Land_1346,6 of october,373.0,Yes,Gravel,No,Low,7950001
+Land_1347,6 of october,374.0,Yes,Gravel,No,Low,7950002
+Land_1348,6 of october,375.0,Yes,Gravel,No,Low,7950003
+Land_1349,6 of october,376.0,Yes,Gravel,No,Low,7950004
+Land_1350,6 of october,377.0,Yes,Gravel,No,Low,7950005
+Land_1351,6 of october,378.0,Yes,Gravel,No,Low,7950006
+Land_1352,6 of october,379.0,Yes,Gravel,No,Low,7950007
+Land_1353,6 of october,380.0,Yes,Gravel,No,Low,7950008
+Land_1354,6 of october,381.0,Yes,Gravel,No,Low,7950009
+Land_1355,6 of october,382.0,Yes,Gravel,No,Low,7950010
+Land_1356,6 of october,383.0,Yes,Gravel,No,Low,7950011
+Land_1357,6 of october,384.0,Yes,Gravel,No,Low,7950012
+Land_1358,6 of october,385.0,Yes,Gravel,No,Low,7950013
+Land_1359,6 of october,386.0,Yes,Gravel,No,Low,7950014
+Land_1360,6 of october,387.0,Yes,Gravel,No,Low,7950015
+Land_1361,6 of october,388.0,Yes,Gravel,No,Low,7950016
+Land_1362,6 of october,389.0,Yes,Gravel,No,Low,7950017
+Land_1363,6 of october,390.0,Yes,Gravel,No,Low,7950018
+Land_1364,6 of october,391.0,Yes,Gravel,No,Low,7950019
+Land_1365,6 of october,392.0,Yes,Gravel,No,Low,7950020
+Land_1366,6 of october,200.0,Yes,Gravel,Yes,Low,2500000
+Land_1367,6 of october,201.0,Yes,Gravel,Yes,Low,2500001
+Land_1368,6 of october,202.0,Yes,Gravel,Yes,Low,2500002
+Land_1369,6 of october,203.0,Yes,Gravel,Yes,Low,2500003
+Land_1370,6 of october,204.0,Yes,Gravel,Yes,Low,2500004
+Land_1371,6 of october,205.0,Yes,Gravel,Yes,Low,2500005
+Land_1372,6 of october,206.0,Yes,Gravel,Yes,Low,2500006
+Land_1373,6 of october,207.0,Yes,Gravel,Yes,Low,2500007
+Land_1374,6 of october,208.0,Yes,Gravel,Yes,Low,2500008
+Land_1375,6 of october,209.0,Yes,Gravel,Yes,Low,2500009
+Land_1376,6 of october,210.0,Yes,Gravel,Yes,Low,2500010
+Land_1377,6 of october,211.0,Yes,Gravel,Yes,Low,2500011
+Land_1378,6 of october,212.0,Yes,Gravel,Yes,Low,2500012
+Land_1379,6 of october,213.0,Yes,Gravel,Yes,Low,2500013
+Land_1380,6 of october,214.0,Yes,Gravel,Yes,Low,2500014
+Land_1381,6 of october,215.0,Yes,Gravel,Yes,Low,2500015
+Land_1382,6 of october,216.0,Yes,Gravel,Yes,Low,2500016
+Land_1383,6 of october,217.0,Yes,Gravel,Yes,Low,2500017
+Land_1384,6 of october,218.0,Yes,Gravel,Yes,Low,2500018
+Land_1385,6 of october,219.0,Yes,Gravel,Yes,Low,2500019
+Land_1386,6 of october,220.0,Yes,Gravel,Yes,Low,2500020
+Land_1387,6 of october,100500.0,No,Clay,No,Low,55000000
+Land_1388,6 of october,100501.0,No,Clay,No,Low,55000001
+Land_1389,6 of october,100502.0,No,Clay,No,Low,55000002
+Land_1390,6 of october,100503.0,No,Clay,No,Low,55000003
+Land_1391,6 of october,100504.0,No,Clay,No,Low,55000004
+Land_1392,6 of october,100505.0,No,Clay,No,Low,55000005
+Land_1393,6 of october,100506.0,No,Clay,No,Low,55000006
+Land_1394,6 of october,100507.0,No,Clay,No,Low,55000007
+Land_1395,6 of october,100508.0,No,Clay,No,Low,55000008
+Land_1396,6 of october,100509.0,No,Clay,No,Low,55000009
+Land_1397,6 of october,100510.0,No,Clay,No,Low,55000010
+Land_1398,6 of october,100511.0,No,Clay,No,Low,55000011
+Land_1399,6 of october,100512.0,No,Clay,No,Low,55000012
+Land_1400,6 of october,100513.0,No,Clay,No,Low,55000013
+Land_1401,6 of october,100514.0,No,Clay,No,Low,55000014
+Land_1402,6 of october,100515.0,No,Clay,No,Low,55000015
+Land_1403,6 of october,100516.0,No,Clay,No,Low,55000016
+Land_1404,6 of october,100517.0,No,Clay,No,Low,55000017
+Land_1405,6 of october,100518.0,No,Clay,No,Low,55000018
+Land_1406,6 of october,100519.0,No,Clay,No,Low,55000019
+Land_1407,6 of october,100520.0,No,Clay,No,Low,55000020
+Land_1408,6 of october,780.0,No,Clay,No,Medium,7200000
+Land_1409,6 of october,781.0,No,Clay,No,Medium,7200001
+Land_1410,6 of october,782.0,No,Clay,No,Medium,7200002
+Land_1411,6 of october,783.0,No,Clay,No,Medium,7200003
+Land_1412,6 of october,784.0,No,Clay,No,Medium,7200004
+Land_1413,6 of october,785.0,No,Clay,No,Medium,7200005
+Land_1414,6 of october,786.0,No,Clay,No,Medium,7200006
+Land_1415,6 of october,787.0,No,Clay,No,Medium,7200007
+Land_1416,6 of october,788.0,No,Clay,No,Medium,7200008
+Land_1417,6 of october,789.0,No,Clay,No,Medium,7200009
+Land_1418,6 of october,790.0,No,Clay,No,Medium,7200010
+Land_1419,6 of october,791.0,No,Clay,No,Medium,7200011
+Land_1420,6 of october,792.0,No,Clay,No,Medium,7200012
+Land_1421,6 of october,793.0,No,Clay,No,Medium,7200013
+Land_1422,6 of october,794.0,No,Clay,No,Medium,7200014
+Land_1423,6 of october,795.0,No,Clay,No,Medium,7200015
+Land_1424,6 of october,796.0,No,Clay,No,Medium,7200016
+Land_1425,6 of october,797.0,No,Clay,No,Medium,7200017
+Land_1426,6 of october,798.0,No,Clay,No,Medium,7200018
+Land_1427,6 of october,799.0,No,Clay,No,Medium,7200019
+Land_1428,6 of october,800.0,No,Clay,No,Medium,7200020
+Land_1429,6 of october,325.0,Yes,Loam,No,Medium,23000000
+Land_1430,6 of october,326.0,Yes,Loam,No,Medium,23000001
+Land_1431,6 of october,327.0,Yes,Loam,No,Medium,23000002
+Land_1432,6 of october,328.0,Yes,Loam,No,Medium,23000003
+Land_1433,6 of october,329.0,Yes,Loam,No,Medium,23000004
+Land_1434,6 of october,330.0,Yes,Loam,No,Medium,23000005
+Land_1435,6 of october,331.0,Yes,Loam,No,Medium,23000006
+Land_1436,6 of october,332.0,Yes,Loam,No,Medium,23000007
+Land_1437,6 of october,333.0,Yes,Loam,No,Medium,23000008
+Land_1438,6 of october,334.0,Yes,Loam,No,Medium,23000009
+Land_1439,6 of october,335.0,Yes,Loam,No,Medium,23000010
+Land_1440,6 of october,336.0,Yes,Loam,No,Medium,23000011
+Land_1441,6 of october,337.0,Yes,Loam,No,Medium,23000012
+Land_1442,6 of october,338.0,Yes,Loam,No,Medium,23000013
+Land_1443,6 of october,339.0,Yes,Loam,No,Medium,23000014
+Land_1444,6 of october,340.0,Yes,Loam,No,Medium,23000015
+Land_1445,6 of october,341.0,Yes,Loam,No,Medium,23000016
+Land_1446,6 of october,342.0,Yes,Loam,No,Medium,23000017
+Land_1447,6 of october,343.0,Yes,Loam,No,Medium,23000018
+Land_1448,6 of october,344.0,Yes,Loam,No,Medium,23000019
+Land_1449,6 of october,345.0,Yes,Loam,No,Medium,23000020
+Land_1450,6 of october,540.0,Yes,Loam,Yes,Medium,18500000
+Land_1451,6 of october,541.0,Yes,Loam,Yes,Medium,18500001
+Land_1452,6 of october,542.0,Yes,Loam,Yes,Medium,18500002
+Land_1453,6 of october,543.0,Yes,Loam,Yes,Medium,18500003
+Land_1454,6 of october,544.0,Yes,Loam,Yes,Medium,18500004
+Land_1455,6 of october,545.0,Yes,Loam,Yes,Medium,18500005
+Land_1456,6 of october,546.0,Yes,Loam,Yes,Medium,18500006
+Land_1457,6 of october,547.0,Yes,Loam,Yes,Medium,18500007
+Land_1458,6 of october,548.0,Yes,Loam,Yes,Medium,18500008
+Land_1459,6 of october,549.0,Yes,Loam,Yes,Medium,18500009
+Land_1460,6 of october,550.0,Yes,Loam,Yes,Medium,18500010
+Land_1461,6 of october,551.0,Yes,Loam,Yes,Medium,18500011
+Land_1462,6 of october,552.0,Yes,Loam,Yes,Medium,18500012
+Land_1463,6 of october,553.0,Yes,Loam,Yes,Medium,18500013
+Land_1464,6 of october,554.0,Yes,Loam,Yes,Medium,18500014
+Land_1465,6 of october,555.0,Yes,Loam,Yes,Medium,18500015
+Land_1466,6 of october,556.0,Yes,Loam,Yes,Medium,18500016
+Land_1467,6 of october,557.0,Yes,Loam,Yes,Medium,18500017
+Land_1468,6 of october,558.0,Yes,Loam,Yes,Medium,18500018
+Land_1469,6 of october,559.0,Yes,Loam,Yes,Medium,18500019
+Land_1470,6 of october,560.0,Yes,Loam,Yes,Medium,18500020
+Land_1471,6 of october,12000.0,No,Clay,Yes,High,25000000
+Land_1472,6 of october,12001.0,No,Clay,Yes,High,25000001
+Land_1473,6 of october,12002.0,No,Clay,Yes,High,25000002
+Land_1474,6 of october,12003.0,No,Clay,Yes,High,25000003
+Land_1475,6 of october,12004.0,No,Clay,Yes,High,25000004
+Land_1476,6 of october,12005.0,No,Clay,Yes,High,25000005
+Land_1477,6 of october,12006.0,No,Clay,Yes,High,25000006
+Land_1478,6 of october,12007.0,No,Clay,Yes,High,25000007
+Land_1479,6 of october,12008.0,No,Clay,Yes,High,25000008
+Land_1480,6 of october,12009.0,No,Clay,Yes,High,25000009
+Land_1481,6 of october,12010.0,No,Clay,Yes,High,25000010
+Land_1482,6 of october,12011.0,No,Clay,Yes,High,25000011
+Land_1483,6 of october,12012.0,No,Clay,Yes,High,25000012
+Land_1484,6 of october,12013.0,No,Clay,Yes,High,25000013
+Land_1485,6 of october,12014.0,No,Clay,Yes,High,25000014
+Land_1486,6 of october,12015.0,No,Clay,Yes,High,25000015
+Land_1487,6 of october,12016.0,No,Clay,Yes,High,25000016
+Land_1488,6 of october,12017.0,No,Clay,Yes,High,25000017
+Land_1489,6 of october,12018.0,No,Clay,Yes,High,25000018
+Land_1490,6 of october,12019.0,No,Clay,Yes,High,25000019
+Land_1491,6 of october,12020.0,No,Clay,Yes,High,25000020
+Land_1492,6 of october,620.0,No,Clay,No,High,4500000
+Land_1493,6 of october,621.0,No,Clay,No,High,4500001
+Land_1494,6 of october,622.0,No,Clay,No,High,4500002
+Land_1495,6 of october,623.0,No,Clay,No,High,4500003
+Land_1496,6 of october,624.0,No,Clay,No,High,4500004
+Land_1497,6 of october,625.0,No,Clay,No,High,4500005
+Land_1498,6 of october,626.0,No,Clay,No,High,4500006
+Land_1499,6 of october,627.0,No,Clay,No,High,4500007
+Land_1500,6 of october,628.0,No,Clay,No,High,4500008
+Land_1501,6 of october,629.0,No,Clay,No,High,4500009
+Land_1502,6 of october,630.0,No,Clay,No,High,4500010
+Land_1503,6 of october,631.0,No,Clay,No,High,4500011
+Land_1504,6 of october,632.0,No,Clay,No,High,4500012
+Land_1505,6 of october,633.0,No,Clay,No,High,4500013
+Land_1506,6 of october,634.0,No,Clay,No,High,4500014
+Land_1507,6 of october,635.0,No,Clay,No,High,4500015
+Land_1508,6 of october,636.0,No,Clay,No,High,4500016
+Land_1509,6 of october,637.0,No,Clay,No,High,4500017
+Land_1510,6 of october,638.0,No,Clay,No,High,4500018
+Land_1511,6 of october,639.0,No,Clay,No,High,4500019
+Land_1512,6 of october,640.0,No,Clay,No,High,4500020
+Land_1513,6 of october,445.0,No,Clay,Yes,Low,13000000
+Land_1514,6 of october,446.0,No,Clay,Yes,Low,13000001
+Land_1515,6 of october,447.0,No,Clay,Yes,Low,13000002
+Land_1516,6 of october,448.0,No,Clay,Yes,Low,13000003
+Land_1517,6 of october,449.0,No,Clay,Yes,Low,13000004
+Land_1518,6 of october,450.0,No,Clay,Yes,Low,13000005
+Land_1519,6 of october,451.0,No,Clay,Yes,Low,13000006
+Land_1520,6 of october,452.0,No,Clay,Yes,Low,13000007
+Land_1521,6 of october,453.0,No,Clay,Yes,Low,13000008
+Land_1522,6 of october,454.0,No,Clay,Yes,Low,13000009
+Land_1523,6 of october,455.0,No,Clay,Yes,Low,13000010
+Land_1524,6 of october,456.0,No,Clay,Yes,Low,13000011
+Land_1525,6 of october,457.0,No,Clay,Yes,Low,13000012
+Land_1526,6 of october,458.0,No,Clay,Yes,Low,13000013
+Land_1527,6 of october,459.0,No,Clay,Yes,Low,13000014
+Land_1528,6 of october,460.0,No,Clay,Yes,Low,13000015
+Land_1529,6 of october,461.0,No,Clay,Yes,Low,13000016
+Land_1530,6 of october,462.0,No,Clay,Yes,Low,13000017
+Land_1531,6 of october,463.0,No,Clay,Yes,Low,13000018
+Land_1532,6 of october,464.0,No,Clay,Yes,Low,13000019
+Land_1533,6 of october,465.0,No,Clay,Yes,Low,13000020
+Land_1534,6 of october,540.0,Yes,Loam,Yes,Low,35000000
+Land_1535,6 of october,541.0,Yes,Loam,Yes,Low,35000001
+Land_1536,6 of october,542.0,Yes,Loam,Yes,Low,35000002
+Land_1537,6 of october,543.0,Yes,Loam,Yes,Low,35000003
+Land_1538,6 of october,544.0,Yes,Loam,Yes,Low,35000004
+Land_1539,6 of october,545.0,Yes,Loam,Yes,Low,35000005
+Land_1540,6 of october,546.0,Yes,Loam,Yes,Low,35000006
+Land_1541,6 of october,547.0,Yes,Loam,Yes,Low,35000007
+Land_1542,6 of october,548.0,Yes,Loam,Yes,Low,35000008
+Land_1543,6 of october,549.0,Yes,Loam,Yes,Low,35000009
+Land_1544,6 of october,550.0,Yes,Loam,Yes,Low,35000010
+Land_1545,6 of october,551.0,Yes,Loam,Yes,Low,35000011
+Land_1546,6 of october,552.0,Yes,Loam,Yes,Low,35000012
+Land_1547,6 of october,553.0,Yes,Loam,Yes,Low,35000013
+Land_1548,6 of october,554.0,Yes,Loam,Yes,Low,35000014
+Land_1549,6 of october,555.0,Yes,Loam,Yes,Low,35000015
+Land_1550,6 of october,556.0,Yes,Loam,Yes,Low,35000016
+Land_1551,6 of october,557.0,Yes,Loam,Yes,Low,35000017
+Land_1552,6 of october,558.0,Yes,Loam,Yes,Low,35000018
+Land_1553,6 of october,559.0,Yes,Loam,Yes,Low,35000019
+Land_1554,6 of october,560.0,Yes,Loam,Yes,Low,35000020
+Land_1555,6 of october,150.0,Yes,Gravel,No,High,22500000
+Land_1556,6 of october,151.0,Yes,Gravel,No,High,22500001
+Land_1557,6 of october,152.0,Yes,Gravel,No,High,22500002
+Land_1558,6 of october,153.0,Yes,Gravel,No,High,22500003
+Land_1559,6 of october,154.0,Yes,Gravel,No,High,22500004
+Land_1560,6 of october,155.0,Yes,Gravel,No,High,22500005
+Land_1561,6 of october,156.0,Yes,Gravel,No,High,22500006
+Land_1562,6 of october,157.0,Yes,Gravel,No,High,22500007
+Land_1563,6 of october,158.0,Yes,Gravel,No,High,22500008
+Land_1564,6 of october,159.0,Yes,Gravel,No,High,22500009
+Land_1565,6 of october,160.0,Yes,Gravel,No,High,22500010
+Land_1566,6 of october,161.0,Yes,Gravel,No,High,22500011
+Land_1567,6 of october,162.0,Yes,Gravel,No,High,22500012
+Land_1568,6 of october,163.0,Yes,Gravel,No,High,22500013
+Land_1569,6 of october,164.0,Yes,Gravel,No,High,22500014
+Land_1570,6 of october,165.0,Yes,Gravel,No,High,22500015
+Land_1571,6 of october,166.0,Yes,Gravel,No,High,22500016
+Land_1572,6 of october,167.0,Yes,Gravel,No,High,22500017
+Land_1573,6 of october,168.0,Yes,Gravel,No,High,22500018
+Land_1574,6 of october,169.0,Yes,Gravel,No,High,22500019
+Land_1575,6 of october,170.0,Yes,Gravel,No,High,22500020
+Land_1576,6 of october,450.0,No,Loam,Yes,High,3500000
+Land_1577,6 of october,451.0,No,Loam,Yes,High,3500001
+Land_1578,6 of october,452.0,No,Loam,Yes,High,3500002
+Land_1579,6 of october,453.0,No,Loam,Yes,High,3500003
+Land_1580,6 of october,454.0,No,Loam,Yes,High,3500004
+Land_1581,6 of october,455.0,No,Loam,Yes,High,3500005
+Land_1582,6 of october,456.0,No,Loam,Yes,High,3500006
+Land_1583,6 of october,457.0,No,Loam,Yes,High,3500007
+Land_1584,6 of october,458.0,No,Loam,Yes,High,3500008
+Land_1585,6 of october,459.0,No,Loam,Yes,High,3500009
+Land_1586,6 of october,460.0,No,Loam,Yes,High,3500010
+Land_1587,6 of october,461.0,No,Loam,Yes,High,3500011
+Land_1588,6 of october,462.0,No,Loam,Yes,High,3500012
+Land_1589,6 of october,463.0,No,Loam,Yes,High,3500013
+Land_1590,6 of october,464.0,No,Loam,Yes,High,3500014
+Land_1591,6 of october,465.0,No,Loam,Yes,High,3500015
+Land_1592,6 of october,466.0,No,Loam,Yes,High,3500016
+Land_1593,6 of october,467.0,No,Loam,Yes,High,3500017
+Land_1594,6 of october,468.0,No,Loam,Yes,High,3500018
+Land_1595,6 of october,469.0,No,Loam,Yes,High,3500019
+Land_1596,6 of october,470.0,No,Loam,Yes,High,3500020
+Land_1597,6 of october,400.0,No,Gravel,Yes,High,5550000
+Land_1598,6 of october,401.0,No,Gravel,Yes,High,5550001
+Land_1599,6 of october,402.0,No,Gravel,Yes,High,5550002
+Land_1600,6 of october,403.0,No,Gravel,Yes,High,5550003
+Land_1601,6 of october,404.0,No,Gravel,Yes,High,5550004
+Land_1602,6 of october,405.0,No,Gravel,Yes,High,5550005
+Land_1603,6 of october,406.0,No,Gravel,Yes,High,5550006
+Land_1604,6 of october,407.0,No,Gravel,Yes,High,5550007
+Land_1605,6 of october,408.0,No,Gravel,Yes,High,5550008
+Land_1606,6 of october,409.0,No,Gravel,Yes,High,5550009
+Land_1607,6 of october,410.0,No,Gravel,Yes,High,5550010
+Land_1608,6 of october,411.0,No,Gravel,Yes,High,5550011
+Land_1609,6 of october,412.0,No,Gravel,Yes,High,5550012
+Land_1610,6 of october,413.0,No,Gravel,Yes,High,5550013
+Land_1611,6 of october,414.0,No,Gravel,Yes,High,5550014
+Land_1612,6 of october,415.0,No,Gravel,Yes,High,5550015
+Land_1613,6 of october,416.0,No,Gravel,Yes,High,5550016
+Land_1614,6 of october,417.0,No,Gravel,Yes,High,5550017
+Land_1615,6 of october,418.0,No,Gravel,Yes,High,5550018
+Land_1616,6 of october,419.0,No,Gravel,Yes,High,5550019
+Land_1617,6 of october,420.0,No,Gravel,Yes,High,5550020
+Land_1618,6 of october,288.0,Yes,Loam,No,Medium,25000000
+Land_1619,6 of october,289.0,Yes,Loam,No,Medium,25000001
+Land_1620,6 of october,290.0,Yes,Loam,No,Medium,25000002
+Land_1621,6 of october,291.0,Yes,Loam,No,Medium,25000003
+Land_1622,6 of october,292.0,Yes,Loam,No,Medium,25000004
+Land_1623,6 of october,293.0,Yes,Loam,No,Medium,25000005
+Land_1624,6 of october,294.0,Yes,Loam,No,Medium,25000006
+Land_1625,6 of october,295.0,Yes,Loam,No,Medium,25000007
+Land_1626,6 of october,296.0,Yes,Loam,No,Medium,25000008
+Land_1627,6 of october,297.0,Yes,Loam,No,Medium,25000009
+Land_1628,6 of october,298.0,Yes,Loam,No,Medium,25000010
+Land_1629,6 of october,299.0,Yes,Loam,No,Medium,25000011
+Land_1630,6 of october,300.0,Yes,Loam,No,Medium,25000012
+Land_1631,6 of october,301.0,Yes,Loam,No,Medium,25000013
+Land_1632,6 of october,302.0,Yes,Loam,No,Medium,25000014
+Land_1633,6 of october,303.0,Yes,Loam,No,Medium,25000015
+Land_1634,6 of october,304.0,Yes,Loam,No,Medium,25000016
+Land_1635,6 of october,305.0,Yes,Loam,No,Medium,25000017
+Land_1636,6 of october,306.0,Yes,Loam,No,Medium,25000018
+Land_1637,6 of october,307.0,Yes,Loam,No,Medium,25000019
+Land_1638,6 of october,308.0,Yes,Loam,No,Medium,25000020
+Land_1639,6 of october,382.0,Yes,Loam,No,Medium,36000000
+Land_1640,6 of october,383.0,Yes,Loam,No,Medium,36000001
+Land_1641,6 of october,384.0,Yes,Loam,No,Medium,36000002
+Land_1642,6 of october,385.0,Yes,Loam,No,Medium,36000003
+Land_1643,6 of october,386.0,Yes,Loam,No,Medium,36000004
+Land_1644,6 of october,387.0,Yes,Loam,No,Medium,36000005
+Land_1645,6 of october,388.0,Yes,Loam,No,Medium,36000006
+Land_1646,6 of october,389.0,Yes,Loam,No,Medium,36000007
+Land_1647,6 of october,390.0,Yes,Loam,No,Medium,36000008
+Land_1648,6 of october,391.0,Yes,Loam,No,Medium,36000009
+Land_1649,6 of october,392.0,Yes,Loam,No,Medium,36000010
+Land_1650,6 of october,393.0,Yes,Loam,No,Medium,36000011
+Land_1651,6 of october,394.0,Yes,Loam,No,Medium,36000012
+Land_1652,6 of october,395.0,Yes,Loam,No,Medium,36000013
+Land_1653,6 of october,396.0,Yes,Loam,No,Medium,36000014
+Land_1654,6 of october,397.0,Yes,Loam,No,Medium,36000015
+Land_1655,6 of october,398.0,Yes,Loam,No,Medium,36000016
+Land_1656,6 of october,399.0,Yes,Loam,No,Medium,36000017
+Land_1657,6 of october,400.0,Yes,Loam,No,Medium,36000018
+Land_1658,6 of october,401.0,Yes,Loam,No,Medium,36000019
+Land_1659,6 of october,402.0,Yes,Loam,No,Medium,36000020
+Land_1660,6 of october,324.0,Yes,Gravel,Yes,Medium,18000000
+Land_1661,6 of october,325.0,Yes,Gravel,Yes,Medium,18000001
+Land_1662,6 of october,326.0,Yes,Gravel,Yes,Medium,18000002
+Land_1663,6 of october,327.0,Yes,Gravel,Yes,Medium,18000003
+Land_1664,6 of october,328.0,Yes,Gravel,Yes,Medium,18000004
+Land_1665,6 of october,329.0,Yes,Gravel,Yes,Medium,18000005
+Land_1666,6 of october,330.0,Yes,Gravel,Yes,Medium,18000006
+Land_1667,6 of october,331.0,Yes,Gravel,Yes,Medium,18000007
+Land_1668,6 of october,332.0,Yes,Gravel,Yes,Medium,18000008
+Land_1669,6 of october,333.0,Yes,Gravel,Yes,Medium,18000009
+Land_1670,6 of october,334.0,Yes,Gravel,Yes,Medium,18000010
+Land_1671,6 of october,335.0,Yes,Gravel,Yes,Medium,18000011
+Land_1672,6 of october,336.0,Yes,Gravel,Yes,Medium,18000012
+Land_1673,6 of october,337.0,Yes,Gravel,Yes,Medium,18000013
+Land_1674,6 of october,338.0,Yes,Gravel,Yes,Medium,18000014
+Land_1675,6 of october,339.0,Yes,Gravel,Yes,Medium,18000015
+Land_1676,6 of october,340.0,Yes,Gravel,Yes,Medium,18000016
+Land_1677,6 of october,341.0,Yes,Gravel,Yes,Medium,18000017
+Land_1678,6 of october,342.0,Yes,Gravel,Yes,Medium,18000018
+Land_1679,6 of october,343.0,Yes,Gravel,Yes,Medium,18000019
+Land_1680,6 of october,344.0,Yes,Gravel,Yes,Medium,18000020
+Land_1681,Badr City,276.0,Yes,Gravel,Yes,Low,20700000
+Land_1682,Badr City,277.0,Yes,Gravel,Yes,Low,20700001
+Land_1683,Badr City,278.0,Yes,Gravel,Yes,Low,20700002
+Land_1684,Badr City,279.0,Yes,Gravel,Yes,Low,20700003
+Land_1685,Badr City,280.0,Yes,Gravel,Yes,Low,20700004
+Land_1686,Badr City,281.0,Yes,Gravel,Yes,Low,20700005
+Land_1687,Badr City,282.0,Yes,Gravel,Yes,Low,20700006
+Land_1688,Badr City,283.0,Yes,Gravel,Yes,Low,20700007
+Land_1689,Badr City,284.0,Yes,Gravel,Yes,Low,20700008
+Land_1690,Badr City,285.0,Yes,Gravel,Yes,Low,20700009
+Land_1691,Badr City,286.0,Yes,Gravel,Yes,Low,20700010
+Land_1692,Badr City,287.0,Yes,Gravel,Yes,Low,20700011
+Land_1693,Badr City,288.0,Yes,Gravel,Yes,Low,20700012
+Land_1694,Badr City,289.0,Yes,Gravel,Yes,Low,20700013
+Land_1695,Badr City,290.0,Yes,Gravel,Yes,Low,20700014
+Land_1696,Badr City,291.0,Yes,Gravel,Yes,Low,20700015
+Land_1697,Badr City,292.0,Yes,Gravel,Yes,Low,20700016
+Land_1698,Badr City,293.0,Yes,Gravel,Yes,Low,20700017
+Land_1699,Badr City,294.0,Yes,Gravel,Yes,Low,20700018
+Land_1700,Badr City,295.0,Yes,Gravel,Yes,Low,20700019
+Land_1701,Badr City,296.0,Yes,Gravel,Yes,Low,20700020
+Land_1702,Badr City,500.0,Yes,Gravel,Yes,Low,4000000
+Land_1703,Badr City,501.0,Yes,Gravel,Yes,Low,4000001
+Land_1704,Badr City,502.0,Yes,Gravel,Yes,Low,4000002
+Land_1705,Badr City,503.0,Yes,Gravel,Yes,Low,4000003
+Land_1706,Badr City,504.0,Yes,Gravel,Yes,Low,4000004
+Land_1707,Badr City,505.0,Yes,Gravel,Yes,Low,4000005
+Land_1708,Badr City,506.0,Yes,Gravel,Yes,Low,4000006
+Land_1709,Badr City,507.0,Yes,Gravel,Yes,Low,4000007
+Land_1710,Badr City,508.0,Yes,Gravel,Yes,Low,4000008
+Land_1711,Badr City,509.0,Yes,Gravel,Yes,Low,4000009
+Land_1712,Badr City,510.0,Yes,Gravel,Yes,Low,4000010
+Land_1713,Badr City,511.0,Yes,Gravel,Yes,Low,4000011
+Land_1714,Badr City,512.0,Yes,Gravel,Yes,Low,4000012
+Land_1715,Badr City,513.0,Yes,Gravel,Yes,Low,4000013
+Land_1716,Badr City,514.0,Yes,Gravel,Yes,Low,4000014
+Land_1717,Badr City,515.0,Yes,Gravel,Yes,Low,4000015
+Land_1718,Badr City,516.0,Yes,Gravel,Yes,Low,4000016
+Land_1719,Badr City,517.0,Yes,Gravel,Yes,Low,4000017
+Land_1720,Badr City,518.0,Yes,Gravel,Yes,Low,4000018
+Land_1721,Badr City,519.0,Yes,Gravel,Yes,Low,4000019
+Land_1722,Badr City,520.0,Yes,Gravel,Yes,Low,4000020
+Land_1723,Badr City,276.0,No,Gravel,No,Low,4100000
+Land_1724,Badr City,277.0,No,Gravel,No,Low,4100001
+Land_1725,Badr City,278.0,No,Gravel,No,Low,4100002
+Land_1726,Badr City,279.0,No,Gravel,No,Low,4100003
+Land_1727,Badr City,280.0,No,Gravel,No,Low,4100004
+Land_1728,Badr City,281.0,No,Gravel,No,Low,4100005
+Land_1729,Badr City,282.0,No,Gravel,No,Low,4100006
+Land_1730,Badr City,283.0,No,Gravel,No,Low,4100007
+Land_1731,Badr City,284.0,No,Gravel,No,Low,4100008
+Land_1732,Badr City,285.0,No,Gravel,No,Low,4100009
+Land_1733,Badr City,286.0,No,Gravel,No,Low,4100010
+Land_1734,Badr City,287.0,No,Gravel,No,Low,4100011
+Land_1735,Badr City,288.0,No,Gravel,No,Low,4100012
+Land_1736,Badr City,289.0,No,Gravel,No,Low,4100013
+Land_1737,Badr City,290.0,No,Gravel,No,Low,4100014
+Land_1738,Badr City,291.0,No,Gravel,No,Low,4100015
+Land_1739,Badr City,292.0,No,Gravel,No,Low,4100016
+Land_1740,Badr City,293.0,No,Gravel,No,Low,4100017
+Land_1741,Badr City,294.0,No,Gravel,No,Low,4100018
+Land_1742,Badr City,295.0,No,Gravel,No,Low,4100019
+Land_1743,Badr City,296.0,No,Gravel,No,Low,4100020
+Land_1744,Badr City,110.0,Yes,Gravel,Yes,Medium,4500000
+Land_1745,Badr City,111.0,Yes,Gravel,Yes,Medium,4500001
+Land_1746,Badr City,112.0,Yes,Gravel,Yes,Medium,4500002
+Land_1747,Badr City,113.0,Yes,Gravel,Yes,Medium,4500003
+Land_1748,Badr City,114.0,Yes,Gravel,Yes,Medium,4500004
+Land_1749,Badr City,115.0,Yes,Gravel,Yes,Medium,4500005
+Land_1750,Badr City,116.0,Yes,Gravel,Yes,Medium,4500006
+Land_1751,Badr City,117.0,Yes,Gravel,Yes,Medium,4500007
+Land_1752,Badr City,118.0,Yes,Gravel,Yes,Medium,4500008
+Land_1753,Badr City,119.0,Yes,Gravel,Yes,Medium,4500009
+Land_1754,Badr City,120.0,Yes,Gravel,Yes,Medium,4500010
+Land_1755,Badr City,121.0,Yes,Gravel,Yes,Medium,4500011
+Land_1756,Badr City,122.0,Yes,Gravel,Yes,Medium,4500012
+Land_1757,Badr City,123.0,Yes,Gravel,Yes,Medium,4500013
+Land_1758,Badr City,124.0,Yes,Gravel,Yes,Medium,4500014
+Land_1759,Badr City,125.0,Yes,Gravel,Yes,Medium,4500015
+Land_1760,Badr City,126.0,Yes,Gravel,Yes,Medium,4500016
+Land_1761,Badr City,127.0,Yes,Gravel,Yes,Medium,4500017
+Land_1762,Badr City,128.0,Yes,Gravel,Yes,Medium,4500018
+Land_1763,Badr City,129.0,Yes,Gravel,Yes,Medium,4500019
+Land_1764,Badr City,130.0,Yes,Gravel,Yes,Medium,4500020
+Land_1765,Badr City,490.0,Yes,Gravel,Yes,Medium,6750000
+Land_1766,Badr City,491.0,Yes,Gravel,Yes,Medium,6750001
+Land_1767,Badr City,492.0,Yes,Gravel,Yes,Medium,6750002
+Land_1768,Badr City,493.0,Yes,Gravel,Yes,Medium,6750003
+Land_1769,Badr City,494.0,Yes,Gravel,Yes,Medium,6750004
+Land_1770,Badr City,495.0,Yes,Gravel,Yes,Medium,6750005
+Land_1771,Badr City,496.0,Yes,Gravel,Yes,Medium,6750006
+Land_1772,Badr City,497.0,Yes,Gravel,Yes,Medium,6750007
+Land_1773,Badr City,498.0,Yes,Gravel,Yes,Medium,6750008
+Land_1774,Badr City,499.0,Yes,Gravel,Yes,Medium,6750009
+Land_1775,Badr City,500.0,Yes,Gravel,Yes,Medium,6750010
+Land_1776,Badr City,501.0,Yes,Gravel,Yes,Medium,6750011
+Land_1777,Badr City,502.0,Yes,Gravel,Yes,Medium,6750012
+Land_1778,Badr City,503.0,Yes,Gravel,Yes,Medium,6750013
+Land_1779,Badr City,504.0,Yes,Gravel,Yes,Medium,6750014
+Land_1780,Badr City,505.0,Yes,Gravel,Yes,Medium,6750015
+Land_1781,Badr City,506.0,Yes,Gravel,Yes,Medium,6750016
+Land_1782,Badr City,507.0,Yes,Gravel,Yes,Medium,6750017
+Land_1783,Badr City,508.0,Yes,Gravel,Yes,Medium,6750018
+Land_1784,Badr City,509.0,Yes,Gravel,Yes,Medium,6750019
+Land_1785,Badr City,510.0,Yes,Gravel,Yes,Medium,6750020
+Land_1786,Badr City,432.0,Yes,Loam,No,High,6500000
+Land_1787,Badr City,433.0,Yes,Loam,No,High,6500001
+Land_1788,Badr City,434.0,Yes,Loam,No,High,6500002
+Land_1789,Badr City,435.0,Yes,Loam,No,High,6500003
+Land_1790,Badr City,436.0,Yes,Loam,No,High,6500004
+Land_1791,Badr City,437.0,Yes,Loam,No,High,6500005
+Land_1792,Badr City,438.0,Yes,Loam,No,High,6500006
+Land_1793,Badr City,439.0,Yes,Loam,No,High,6500007
+Land_1794,Badr City,440.0,Yes,Loam,No,High,6500008
+Land_1795,Badr City,441.0,Yes,Loam,No,High,6500009
+Land_1796,Badr City,442.0,Yes,Loam,No,High,6500010
+Land_1797,Badr City,443.0,Yes,Loam,No,High,6500011
+Land_1798,Badr City,444.0,Yes,Loam,No,High,6500012
+Land_1799,Badr City,445.0,Yes,Loam,No,High,6500013
+Land_1800,Badr City,446.0,Yes,Loam,No,High,6500014
+Land_1801,Badr City,447.0,Yes,Loam,No,High,6500015
+Land_1802,Badr City,448.0,Yes,Loam,No,High,6500016
+Land_1803,Badr City,449.0,Yes,Loam,No,High,6500017
+Land_1804,Badr City,450.0,Yes,Loam,No,High,6500018
+Land_1805,Badr City,451.0,Yes,Loam,No,High,6500019
+Land_1806,Badr City,452.0,Yes,Loam,No,High,6500020
+Land_1807,Badr City,400.0,Yes,Loam,Yes,High,6500000
+Land_1808,Badr City,401.0,Yes,Loam,Yes,High,6500001
+Land_1809,Badr City,402.0,Yes,Loam,Yes,High,6500002
+Land_1810,Badr City,403.0,Yes,Loam,Yes,High,6500003
+Land_1811,Badr City,404.0,Yes,Loam,Yes,High,6500004
+Land_1812,Badr City,405.0,Yes,Loam,Yes,High,6500005
+Land_1813,Badr City,406.0,Yes,Loam,Yes,High,6500006
+Land_1814,Badr City,407.0,Yes,Loam,Yes,High,6500007
+Land_1815,Badr City,408.0,Yes,Loam,Yes,High,6500008
+Land_1816,Badr City,409.0,Yes,Loam,Yes,High,6500009
+Land_1817,Badr City,410.0,Yes,Loam,Yes,High,6500010
+Land_1818,Badr City,411.0,Yes,Loam,Yes,High,6500011
+Land_1819,Badr City,412.0,Yes,Loam,Yes,High,6500012
+Land_1820,Badr City,413.0,Yes,Loam,Yes,High,6500013
+Land_1821,Badr City,414.0,Yes,Loam,Yes,High,6500014
+Land_1822,Badr City,415.0,Yes,Loam,Yes,High,6500015
+Land_1823,Badr City,416.0,Yes,Loam,Yes,High,6500016
+Land_1824,Badr City,417.0,Yes,Loam,Yes,High,6500017
+Land_1825,Badr City,418.0,Yes,Loam,Yes,High,6500018
+Land_1826,Badr City,419.0,Yes,Loam,Yes,High,6500019
+Land_1827,Badr City,420.0,Yes,Loam,Yes,High,6500020
+Land_1828,Badr City,400.0,Yes,Loam,Yes,Medium,7000000
+Land_1829,Badr City,401.0,Yes,Loam,Yes,Medium,7000001
+Land_1830,Badr City,402.0,Yes,Loam,Yes,Medium,7000002
+Land_1831,Badr City,403.0,Yes,Loam,Yes,Medium,7000003
+Land_1832,Badr City,404.0,Yes,Loam,Yes,Medium,7000004
+Land_1833,Badr City,405.0,Yes,Loam,Yes,Medium,7000005
+Land_1834,Badr City,406.0,Yes,Loam,Yes,Medium,7000006
+Land_1835,Badr City,407.0,Yes,Loam,Yes,Medium,7000007
+Land_1836,Badr City,408.0,Yes,Loam,Yes,Medium,7000008
+Land_1837,Badr City,409.0,Yes,Loam,Yes,Medium,7000009
+Land_1838,Badr City,410.0,Yes,Loam,Yes,Medium,7000010
+Land_1839,Badr City,411.0,Yes,Loam,Yes,Medium,7000011
+Land_1840,Badr City,412.0,Yes,Loam,Yes,Medium,7000012
+Land_1841,Badr City,413.0,Yes,Loam,Yes,Medium,7000013
+Land_1842,Badr City,414.0,Yes,Loam,Yes,Medium,7000014
+Land_1843,Badr City,415.0,Yes,Loam,Yes,Medium,7000015
+Land_1844,Badr City,416.0,Yes,Loam,Yes,Medium,7000016
+Land_1845,Badr City,417.0,Yes,Loam,Yes,Medium,7000017
+Land_1846,Badr City,418.0,Yes,Loam,Yes,Medium,7000018
+Land_1847,Badr City,419.0,Yes,Loam,Yes,Medium,7000019
+Land_1848,Badr City,420.0,Yes,Loam,Yes,Medium,7000020
+Land_1849,Badr City,430.0,Yes,Loam,No,Medium,7500000
+Land_1850,Badr City,431.0,Yes,Loam,No,Medium,7500001
+Land_1851,Badr City,432.0,Yes,Loam,No,Medium,7500002
+Land_1852,Badr City,433.0,Yes,Loam,No,Medium,7500003
+Land_1853,Badr City,434.0,Yes,Loam,No,Medium,7500004
+Land_1854,Badr City,435.0,Yes,Loam,No,Medium,7500005
+Land_1855,Badr City,436.0,Yes,Loam,No,Medium,7500006
+Land_1856,Badr City,437.0,Yes,Loam,No,Medium,7500007
+Land_1857,Badr City,438.0,Yes,Loam,No,Medium,7500008
+Land_1858,Badr City,439.0,Yes,Loam,No,Medium,7500009
+Land_1859,Badr City,440.0,Yes,Loam,No,Medium,7500010
+Land_1860,Badr City,441.0,Yes,Loam,No,Medium,7500011
+Land_1861,Badr City,442.0,Yes,Loam,No,Medium,7500012
+Land_1862,Badr City,443.0,Yes,Loam,No,Medium,7500013
+Land_1863,Badr City,444.0,Yes,Loam,No,Medium,7500014
+Land_1864,Badr City,445.0,Yes,Loam,No,Medium,7500015
+Land_1865,Badr City,446.0,Yes,Loam,No,Medium,7500016
+Land_1866,Badr City,447.0,Yes,Loam,No,Medium,7500017
+Land_1867,Badr City,448.0,Yes,Loam,No,Medium,7500018
+Land_1868,Badr City,449.0,Yes,Loam,No,Medium,7500019
+Land_1869,Badr City,450.0,Yes,Loam,No,Medium,7500020
+Land_1870,Badr City,320.0,No,Clay,No,Medium,8000000
+Land_1871,Badr City,321.0,No,Clay,No,Medium,8000001
+Land_1872,Badr City,322.0,No,Clay,No,Medium,8000002
+Land_1873,Badr City,323.0,No,Clay,No,Medium,8000003
+Land_1874,Badr City,324.0,No,Clay,No,Medium,8000004
+Land_1875,Badr City,325.0,No,Clay,No,Medium,8000005
+Land_1876,Badr City,326.0,No,Clay,No,Medium,8000006
+Land_1877,Badr City,327.0,No,Clay,No,Medium,8000007
+Land_1878,Badr City,328.0,No,Clay,No,Medium,8000008
+Land_1879,Badr City,329.0,No,Clay,No,Medium,8000009
+Land_1880,Badr City,330.0,No,Clay,No,Medium,8000010
+Land_1881,Badr City,331.0,No,Clay,No,Medium,8000011
+Land_1882,Badr City,332.0,No,Clay,No,Medium,8000012
+Land_1883,Badr City,333.0,No,Clay,No,Medium,8000013
+Land_1884,Badr City,334.0,No,Clay,No,Medium,8000014
+Land_1885,Badr City,335.0,No,Clay,No,Medium,8000015
+Land_1886,Badr City,336.0,No,Clay,No,Medium,8000016
+Land_1887,Badr City,337.0,No,Clay,No,Medium,8000017
+Land_1888,Badr City,338.0,No,Clay,No,Medium,8000018
+Land_1889,Badr City,339.0,No,Clay,No,Medium,8000019
+Land_1890,Badr City,340.0,No,Clay,No,Medium,8000020
+Land_1891,Badr City,320.0,No,Clay,No,Low,8000000
+Land_1892,Badr City,321.0,No,Clay,No,Low,8000001
+Land_1893,Badr City,322.0,No,Clay,No,Low,8000002
+Land_1894,Badr City,323.0,No,Clay,No,Low,8000003
+Land_1895,Badr City,324.0,No,Clay,No,Low,8000004
+Land_1896,Badr City,325.0,No,Clay,No,Low,8000005
+Land_1897,Badr City,326.0,No,Clay,No,Low,8000006
+Land_1898,Badr City,327.0,No,Clay,No,Low,8000007
+Land_1899,Badr City,328.0,No,Clay,No,Low,8000008
+Land_1900,Badr City,329.0,No,Clay,No,Low,8000009
+Land_1901,Badr City,330.0,No,Clay,No,Low,8000010
+Land_1902,Badr City,331.0,No,Clay,No,Low,8000011
+Land_1903,Badr City,332.0,No,Clay,No,Low,8000012
+Land_1904,Badr City,333.0,No,Clay,No,Low,8000013
+Land_1905,Badr City,334.0,No,Clay,No,Low,8000014
+Land_1906,Badr City,335.0,No,Clay,No,Low,8000015
+Land_1907,Badr City,336.0,No,Clay,No,Low,8000016
+Land_1908,Badr City,337.0,No,Clay,No,Low,8000017
+Land_1909,Badr City,338.0,No,Clay,No,Low,8000018
+Land_1910,Badr City,339.0,No,Clay,No,Low,8000019
+Land_1911,Badr City,340.0,No,Clay,No,Low,8000020
+Land_1912,Badr City,350.0,Yes,Clay,Yes,Medium,7000000
+Land_1913,Badr City,351.0,Yes,Clay,Yes,Medium,7000001
+Land_1914,Badr City,352.0,Yes,Clay,Yes,Medium,7000002
+Land_1915,Badr City,353.0,Yes,Clay,Yes,Medium,7000003
+Land_1916,Badr City,354.0,Yes,Clay,Yes,Medium,7000004
+Land_1917,Badr City,355.0,Yes,Clay,Yes,Medium,7000005
+Land_1918,Badr City,356.0,Yes,Clay,Yes,Medium,7000006
+Land_1919,Badr City,357.0,Yes,Clay,Yes,Medium,7000007
+Land_1920,Badr City,358.0,Yes,Clay,Yes,Medium,7000008
+Land_1921,Badr City,359.0,Yes,Clay,Yes,Medium,7000009
+Land_1922,Badr City,360.0,Yes,Clay,Yes,Medium,7000010
+Land_1923,Badr City,361.0,Yes,Clay,Yes,Medium,7000011
+Land_1924,Badr City,362.0,Yes,Clay,Yes,Medium,7000012
+Land_1925,Badr City,363.0,Yes,Clay,Yes,Medium,7000013
+Land_1926,Badr City,364.0,Yes,Clay,Yes,Medium,7000014
+Land_1927,Badr City,365.0,Yes,Clay,Yes,Medium,7000015
+Land_1928,Badr City,366.0,Yes,Clay,Yes,Medium,7000016
+Land_1929,Badr City,367.0,Yes,Clay,Yes,Medium,7000017
+Land_1930,Badr City,368.0,Yes,Clay,Yes,Medium,7000018
+Land_1931,Badr City,369.0,Yes,Clay,Yes,Medium,7000019
+Land_1932,Badr City,370.0,Yes,Clay,Yes,Medium,7000020
+Land_1933,Badr City,276.0,Yes,Clay,Yes,Low,5800000
+Land_1934,Badr City,277.0,Yes,Clay,Yes,Low,5800001
+Land_1935,Badr City,278.0,Yes,Clay,Yes,Low,5800002
+Land_1936,Badr City,279.0,Yes,Clay,Yes,Low,5800003
+Land_1937,Badr City,280.0,Yes,Clay,Yes,Low,5800004
+Land_1938,Badr City,281.0,Yes,Clay,Yes,Low,5800005
+Land_1939,Badr City,282.0,Yes,Clay,Yes,Low,5800006
+Land_1940,Badr City,283.0,Yes,Clay,Yes,Low,5800007
+Land_1941,Badr City,284.0,Yes,Clay,Yes,Low,5800008
+Land_1942,Badr City,285.0,Yes,Clay,Yes,Low,5800009
+Land_1943,Badr City,286.0,Yes,Clay,Yes,Low,5800010
+Land_1944,Badr City,287.0,Yes,Clay,Yes,Low,5800011
+Land_1945,Badr City,288.0,Yes,Clay,Yes,Low,5800012
+Land_1946,Badr City,289.0,Yes,Clay,Yes,Low,5800013
+Land_1947,Badr City,290.0,Yes,Clay,Yes,Low,5800014
+Land_1948,Badr City,291.0,Yes,Clay,Yes,Low,5800015
+Land_1949,Badr City,292.0,Yes,Clay,Yes,Low,5800016
+Land_1950,Badr City,293.0,Yes,Clay,Yes,Low,5800017
+Land_1951,Badr City,294.0,Yes,Clay,Yes,Low,5800018
+Land_1952,Badr City,295.0,Yes,Clay,Yes,Low,5800019
+Land_1953,Badr City,296.0,Yes,Clay,Yes,Low,5800020
+Land_1954,Badr City,731.0,Yes,Loam,No,Low,12000000
+Land_1955,Badr City,732.0,Yes,Loam,No,Low,12000001
+Land_1956,Badr City,733.0,Yes,Loam,No,Low,12000002
+Land_1957,Badr City,734.0,Yes,Loam,No,Low,12000003
+Land_1958,Badr City,735.0,Yes,Loam,No,Low,12000004
+Land_1959,Badr City,736.0,Yes,Loam,No,Low,12000005
+Land_1960,Badr City,737.0,Yes,Loam,No,Low,12000006
+Land_1961,Badr City,738.0,Yes,Loam,No,Low,12000007
+Land_1962,Badr City,739.0,Yes,Loam,No,Low,12000008
+Land_1963,Badr City,740.0,Yes,Loam,No,Low,12000009
+Land_1964,Badr City,741.0,Yes,Loam,No,Low,12000010
+Land_1965,Badr City,742.0,Yes,Loam,No,Low,12000011
+Land_1966,Badr City,743.0,Yes,Loam,No,Low,12000012
+Land_1967,Badr City,744.0,Yes,Loam,No,Low,12000013
+Land_1968,Badr City,745.0,Yes,Loam,No,Low,12000014
+Land_1969,Badr City,746.0,Yes,Loam,No,Low,12000015
+Land_1970,Badr City,747.0,Yes,Loam,No,Low,12000016
+Land_1971,Badr City,748.0,Yes,Loam,No,Low,12000017
+Land_1972,Badr City,749.0,Yes,Loam,No,Low,12000018
+Land_1973,Badr City,750.0,Yes,Loam,No,Low,12000019
+Land_1974,Badr City,751.0,Yes,Loam,No,Low,12000020
+Land_1975,Badr City,405.0,Yes,Gravel,No ,Low,11000000
+Land_1976,Badr City,406.0,Yes,Gravel,No ,Low,11000001
+Land_1977,Badr City,407.0,Yes,Gravel,No ,Low,11000002
+Land_1978,Badr City,408.0,Yes,Gravel,No ,Low,11000003
+Land_1979,Badr City,409.0,Yes,Gravel,No ,Low,11000004
+Land_1980,Badr City,410.0,Yes,Gravel,No ,Low,11000005
+Land_1981,Badr City,411.0,Yes,Gravel,No ,Low,11000006
+Land_1982,Badr City,412.0,Yes,Gravel,No ,Low,11000007
+Land_1983,Badr City,413.0,Yes,Gravel,No ,Low,11000008
+Land_1984,Badr City,414.0,Yes,Gravel,No ,Low,11000009
+Land_1985,Badr City,415.0,Yes,Gravel,No ,Low,11000010
+Land_1986,Badr City,416.0,Yes,Gravel,No ,Low,11000011
+Land_1987,Badr City,417.0,Yes,Gravel,No ,Low,11000012
+Land_1988,Badr City,418.0,Yes,Gravel,No ,Low,11000013
+Land_1989,Badr City,419.0,Yes,Gravel,No ,Low,11000014
+Land_1990,Badr City,420.0,Yes,Gravel,No ,Low,11000015
+Land_1991,Badr City,421.0,Yes,Gravel,No ,Low,11000016
+Land_1992,Badr City,422.0,Yes,Gravel,No ,Low,11000017
+Land_1993,Badr City,423.0,Yes,Gravel,No ,Low,11000018
+Land_1994,Badr City,424.0,Yes,Gravel,No ,Low,11000019
+Land_1995,Badr City,425.0,Yes,Gravel,No ,Low,11000020
+Land_1996,Badr City,420.0,Yes,Gravel,Yes,Low,10000000
+Land_1997,Badr City,421.0,Yes,Gravel,Yes,Low,10000001
+Land_1998,Badr City,422.0,Yes,Gravel,Yes,Low,10000002
+Land_1999,Badr City,423.0,Yes,Gravel,Yes,Low,10000003
+Land_2000,Badr City,424.0,Yes,Gravel,Yes,Low,10000004
